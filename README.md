@@ -46,3 +46,9 @@ I'm backend developer :robot:. Co-organizer of PyMX, the Python :snake: meetup l
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
+1. 🎉 Merged PR [#2](https://github.com//danvergara/danvergara/pull/2) in [danvergara/danvergara](https://github.com//danvergara/danvergara)
+2. 💪 Opened PR [#2](https://github.com//danvergara/danvergara/pull/2) in [danvergara/danvergara](https://github.com//danvergara/danvergara)
+3. 🎉 Merged PR [#1](https://github.com//danvergara/danvergara/pull/1) in [danvergara/danvergara](https://github.com//danvergara/danvergara)
+4. 💪 Opened PR [#1](https://github.com//danvergara/danvergara/pull/1) in [danvergara/danvergara](https://github.com//danvergara/danvergara)
+5. 🎉 Merged PR [#34](https://github.com//danvergara/dashboard/pull/34) in [danvergara/dashboard](https://github.com//danvergara/dashboard)
+<!--END_SECTION:activity-->
