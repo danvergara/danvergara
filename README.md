@@ -38,10 +38,10 @@ I'm backend developer :robot:. Co-organizer of PyMX, the Python :snake: meetup l
 
 ## :nerd_face: Preferred languages:
 
-![Dancing Gopher](dancing-gopher.gif)
+![Dancing Gopher](http://static.velvetcache.org/pages/2018/06/13/party-gopher/dancing-gopher.gif)
 <img src="https://media.giphy.com/media/KAq5w47R9rmTuvWOWa/giphy.gif" width="200" height="200"/>
-<img src="ruby-programming-logo.png" width="200" height="200"/>
-<img src="js-logo.png" width="200" height="200">
+<img src="https://upload.wikimedia.org/wikipedia/commons/7/73/Ruby_logo.svg" width="200" height="200"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" width="200" height="200">
 
 ### :zap: Recent Activity
 
