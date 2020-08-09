@@ -36,7 +36,13 @@ I'm backend developer :robot:. Co-organizer of PyMX, the Python :snake: meetup l
     * Developed and maintained an API REST for some clients
     * Stack: Ruby on Rails, CoffeeScript, PostgreSQL and Heroku
 
-## :nerd_face: Preferred languages:
+# EDUCATION:
+
+* **BACHELOR OF INDUSTRIAL ENGINEERING, MAJOR IN FINANCE**
+
+  BENEMÉRITA UNIVERSIDAD AUTONOMA DE PUEBLA (2011 - 2016)
+
+## :nerd_face: Preferred programming languages:
 
 ![Dancing Gopher](http://static.velvetcache.org/pages/2018/06/13/party-gopher/dancing-gopher.gif)
 <img src="https://media.giphy.com/media/KAq5w47R9rmTuvWOWa/giphy.gif" width="200" height="200"/>
