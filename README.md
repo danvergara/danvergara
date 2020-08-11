@@ -11,17 +11,14 @@ I'm backend developer :robot:. Co-organizer of PyMX, the Python :snake: meetup l
 * **BACKEND DEVELOPER**
     (CREDIJUSTO | NOV 2019 - )
     * Developed and maintained some Flask and Go microservices.
-    * Built required infrastructure
-    * Built CI/CD piplines
+    * Built required infrastructure and CI/CD piplines
     * Stack: Python Flask, Golang, Pulumi, Codefresh/CircleCI and AWS
 
 * **TECH LEAD**
     (TRUEHOME | APR 2019 - NOV 2019)
     * Scraped many websites in order to get real state data
-    * Developed serverless applications and functions
-    * Developed some microservices
-    * Built CI/CD pipelines
-    * Built required infrastructure
+    * Developed serverless applications and some microservices
+    * Built CI/CD pipelines and required infrastructure
     * Stack: Python, Flask, Scrapy, Bueautiful Soup, Terraform, AWS Lambdas, PostgreSQL, Gitlab CI and AWS
 
 * **FULLSTACK DEVELOPER**
