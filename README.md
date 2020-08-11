@@ -49,9 +49,9 @@ I'm backend developer :robot:. Co-organizer of PyMX, the Python :snake: meetup l
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#3](https://github.com//danvergara/danvergara/pull/3) in [danvergara/danvergara](https://github.com//danvergara/danvergara)
-2. 💪 Opened PR [#3](https://github.com//danvergara/danvergara/pull/3) in [danvergara/danvergara](https://github.com//danvergara/danvergara)
-3. 🎉 Merged PR [#2](https://github.com//danvergara/danvergara/pull/2) in [danvergara/danvergara](https://github.com//danvergara/danvergara)
-4. 💪 Opened PR [#2](https://github.com//danvergara/danvergara/pull/2) in [danvergara/danvergara](https://github.com//danvergara/danvergara)
-5. 🎉 Merged PR [#1](https://github.com//danvergara/danvergara/pull/1) in [danvergara/danvergara](https://github.com//danvergara/danvergara)
+1. 🎉 Merged PR [#4](https://github.com//danvergara/danvergara/pull/4) in [danvergara/danvergara](https://github.com//danvergara/danvergara)
+2. 💪 Opened PR [#4](https://github.com//danvergara/danvergara/pull/4) in [danvergara/danvergara](https://github.com//danvergara/danvergara)
+3. 🎉 Merged PR [#6](https://github.com//danvergara/bookmarker/pull/6) in [danvergara/bookmarker](https://github.com//danvergara/bookmarker)
+4. 💪 Opened PR [#6](https://github.com//danvergara/bookmarker/pull/6) in [danvergara/bookmarker](https://github.com//danvergara/bookmarker)
+5. 🎉 Merged PR [#3](https://github.com//danvergara/danvergara/pull/3) in [danvergara/danvergara](https://github.com//danvergara/danvergara)
 <!--END_SECTION:activity-->
