@@ -49,9 +49,9 @@ I'm backend developer :robot:. Co-organizer of PyMX, the Python :snake: meetup l
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#12](https://github.com//danvergara/watchtowerk8s/pull/12) in [danvergara/watchtowerk8s](https://github.com//danvergara/watchtowerk8s)
-2. 💪 Opened PR [#12](https://github.com//danvergara/watchtowerk8s/pull/12) in [danvergara/watchtowerk8s](https://github.com//danvergara/watchtowerk8s)
-3. 💪 Opened PR [#35](https://github.com//danvergara/dashboardserver/pull/35) in [danvergara/dashboardserver](https://github.com//danvergara/dashboardserver)
-4. 🎉 Merged PR [#4](https://github.com//danvergara/danvergara/pull/4) in [danvergara/danvergara](https://github.com//danvergara/danvergara)
-5. 💪 Opened PR [#4](https://github.com//danvergara/danvergara/pull/4) in [danvergara/danvergara](https://github.com//danvergara/danvergara)
+1. 🎉 Merged PR [#35](https://github.com//danvergara/dashboardserver/pull/35) in [danvergara/dashboardserver](https://github.com//danvergara/dashboardserver)
+2. 🎉 Merged PR [#12](https://github.com//danvergara/watchtowerk8s/pull/12) in [danvergara/watchtowerk8s](https://github.com//danvergara/watchtowerk8s)
+3. 💪 Opened PR [#12](https://github.com//danvergara/watchtowerk8s/pull/12) in [danvergara/watchtowerk8s](https://github.com//danvergara/watchtowerk8s)
+4. 💪 Opened PR [#35](https://github.com//danvergara/dashboardserver/pull/35) in [danvergara/dashboardserver](https://github.com//danvergara/dashboardserver)
+5. 🎉 Merged PR [#4](https://github.com//danvergara/danvergara/pull/4) in [danvergara/danvergara](https://github.com//danvergara/danvergara)
 <!--END_SECTION:activity-->
