@@ -49,9 +49,9 @@ I'm backend developer :robot:. Co-organizer of PyMX, the Python :snake: meetup l
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#10](https://github.com//danvergara/freedom-analysis/pull/10) in [danvergara/freedom-analysis](https://github.com//danvergara/freedom-analysis)
-2. 🎉 Merged PR [#36](https://github.com//danvergara/dashboardserver/pull/36) in [danvergara/dashboardserver](https://github.com//danvergara/dashboardserver)
-3. 💪 Opened PR [#36](https://github.com//danvergara/dashboardserver/pull/36) in [danvergara/dashboardserver](https://github.com//danvergara/dashboardserver)
-4. 🎉 Merged PR [#35](https://github.com//danvergara/dashboardserver/pull/35) in [danvergara/dashboardserver](https://github.com//danvergara/dashboardserver)
-5. 🎉 Merged PR [#12](https://github.com//danvergara/watchtowerk8s/pull/12) in [danvergara/watchtowerk8s](https://github.com//danvergara/watchtowerk8s)
+1. 🎉 Merged PR [#10](https://github.com//danvergara/freedom-analysis/pull/10) in [danvergara/freedom-analysis](https://github.com//danvergara/freedom-analysis)
+2. 💪 Opened PR [#10](https://github.com//danvergara/freedom-analysis/pull/10) in [danvergara/freedom-analysis](https://github.com//danvergara/freedom-analysis)
+3. 🎉 Merged PR [#36](https://github.com//danvergara/dashboardserver/pull/36) in [danvergara/dashboardserver](https://github.com//danvergara/dashboardserver)
+4. 💪 Opened PR [#36](https://github.com//danvergara/dashboardserver/pull/36) in [danvergara/dashboardserver](https://github.com//danvergara/dashboardserver)
+5. 🎉 Merged PR [#35](https://github.com//danvergara/dashboardserver/pull/35) in [danvergara/dashboardserver](https://github.com//danvergara/dashboardserver)
 <!--END_SECTION:activity-->
