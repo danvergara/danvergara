@@ -49,9 +49,9 @@ I'm backend developer :robot:. Co-organizer of PyMX, the Python :snake: meetup l
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#37](https://github.com//danvergara/dashboard/pull/37) in [danvergara/dashboard](https://github.com//danvergara/dashboard)
-2. 💪 Opened PR [#37](https://github.com//danvergara/dashboard/pull/37) in [danvergara/dashboard](https://github.com//danvergara/dashboard)
-3. 🎉 Merged PR [#38](https://github.com//danvergara/dashboardserver/pull/38) in [danvergara/dashboardserver](https://github.com//danvergara/dashboardserver)
-4. 💪 Opened PR [#38](https://github.com//danvergara/dashboardserver/pull/38) in [danvergara/dashboardserver](https://github.com//danvergara/dashboardserver)
-5. 🎉 Merged PR [#37](https://github.com//danvergara/dashboardserver/pull/37) in [danvergara/dashboardserver](https://github.com//danvergara/dashboardserver)
+1. 🎉 Merged PR [#3](https://github.com//danvergara/xzvapp/pull/3) in [danvergara/xzvapp](https://github.com//danvergara/xzvapp)
+2. 💪 Opened PR [#3](https://github.com//danvergara/xzvapp/pull/3) in [danvergara/xzvapp](https://github.com//danvergara/xzvapp)
+3. 🎉 Merged PR [#2](https://github.com//danvergara/xzvapp/pull/2) in [danvergara/xzvapp](https://github.com//danvergara/xzvapp)
+4. 💪 Opened PR [#2](https://github.com//danvergara/xzvapp/pull/2) in [danvergara/xzvapp](https://github.com//danvergara/xzvapp)
+5. 🎉 Merged PR [#1](https://github.com//danvergara/xzvapp/pull/1) in [danvergara/xzvapp](https://github.com//danvergara/xzvapp)
 <!--END_SECTION:activity-->
