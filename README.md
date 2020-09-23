@@ -9,7 +9,11 @@ I'm backend developer :robot:. Co-organizer of PyMX, the Python :snake: meetup l
 # Experience:
 
 * **BACKEND DEVELOPER**
-    (CREDIJUSTO | NOV 2019 - )
+    (Voxie | SEP 2020 - )
+    * Stack: PHP, Laravel, Laravel Vapor, AWS
+
+* **BACKEND DEVELOPER**
+    (CREDIJUSTO | NOV 2019 - AUG 2020 )
     * Developed and maintained some Flask and Go microservices.
     * Built required infrastructure and CI/CD piplines
     * Stack: Python Flask, Golang, Pulumi, Codefresh/CircleCI and AWS
