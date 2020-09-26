@@ -53,9 +53,9 @@ I'm backend developer :robot:. Co-organizer of PyMX, the Python :snake: meetup l
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#5](https://github.com//danvergara/danvergara/pull/5) in [danvergara/danvergara](https://github.com//danvergara/danvergara)
-2. 💪 Opened PR [#5](https://github.com//danvergara/danvergara/pull/5) in [danvergara/danvergara](https://github.com//danvergara/danvergara)
-3. 🎉 Merged PR [#8](https://github.com//BentoBox-Project/lazypodman/pull/8) in [BentoBox-Project/lazypodman](https://github.com//BentoBox-Project/lazypodman)
-4. 💪 Opened PR [#8](https://github.com//BentoBox-Project/lazypodman/pull/8) in [BentoBox-Project/lazypodman](https://github.com//BentoBox-Project/lazypodman)
-5. 🎉 Merged PR [#7](https://github.com//BentoBox-Project/lazypodman/pull/7) in [BentoBox-Project/lazypodman](https://github.com//BentoBox-Project/lazypodman)
+1. 🎉 Merged PR [#5](https://github.com/danvergara/danvergara/pull/5) in [danvergara/danvergara](https://github.com/danvergara/danvergara)
+2. 💪 Opened PR [#5](https://github.com/danvergara/danvergara/pull/5) in [danvergara/danvergara](https://github.com/danvergara/danvergara)
+3. 🎉 Merged PR [#8](https://github.com/BentoBox-Project/lazypodman/pull/8) in [BentoBox-Project/lazypodman](https://github.com/BentoBox-Project/lazypodman)
+4. 💪 Opened PR [#8](https://github.com/BentoBox-Project/lazypodman/pull/8) in [BentoBox-Project/lazypodman](https://github.com/BentoBox-Project/lazypodman)
+5. 🎉 Merged PR [#7](https://github.com/BentoBox-Project/lazypodman/pull/7) in [BentoBox-Project/lazypodman](https://github.com/BentoBox-Project/lazypodman)
 <!--END_SECTION:activity-->
