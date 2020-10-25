@@ -10,7 +10,8 @@ I'm backend developer :robot:. Co-organizer of PyMX, the Python :snake: meetup l
 
 * **BACKEND DEVELOPER**
     (Voxie | SEP 2020 - )
-    * Stack: PHP, Laravel, Laravel Vapor, AWS
+    * Working on a Golang gRPC micro-service running on top of a K8s cluster
+    * Stack: PHP, Laravel, Golang, gRPC, Kubernetes, Laravel Vapor, AWS
 
 * **BACKEND DEVELOPER**
     (CREDIJUSTO | NOV 2019 - AUG 2020 )
