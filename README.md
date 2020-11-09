@@ -55,8 +55,8 @@ I'm backend developer :robot:. Co-organizer of PyMX, the Python :snake: meetup l
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#29](https://github.com/containers/podman-py/issues/29) in [containers/podman-py](https://github.com/containers/podman-py)
-2. 🎉 Merged PR [#6](https://github.com/danvergara/danvergara/pull/6) in [danvergara/danvergara](https://github.com/danvergara/danvergara)
-3. 💪 Opened PR [#6](https://github.com/danvergara/danvergara/pull/6) in [danvergara/danvergara](https://github.com/danvergara/danvergara)
-4. 🎉 Merged PR [#15](https://github.com/BentoBox-Project/lazypodman/pull/15) in [BentoBox-Project/lazypodman](https://github.com/BentoBox-Project/lazypodman)
-5. 💪 Opened PR [#15](https://github.com/BentoBox-Project/lazypodman/pull/15) in [BentoBox-Project/lazypodman](https://github.com/BentoBox-Project/lazypodman)
+2. 🗣 Commented on [#29](https://github.com/containers/podman-py/issues/29) in [containers/podman-py](https://github.com/containers/podman-py)
+3. 🎉 Merged PR [#6](https://github.com/danvergara/danvergara/pull/6) in [danvergara/danvergara](https://github.com/danvergara/danvergara)
+4. 💪 Opened PR [#6](https://github.com/danvergara/danvergara/pull/6) in [danvergara/danvergara](https://github.com/danvergara/danvergara)
+5. 🎉 Merged PR [#15](https://github.com/BentoBox-Project/lazypodman/pull/15) in [BentoBox-Project/lazypodman](https://github.com/BentoBox-Project/lazypodman)
 <!--END_SECTION:activity-->
