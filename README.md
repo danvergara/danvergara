@@ -54,9 +54,9 @@ I'm backend developer :robot:. Co-organizer of PyMX, the Python :snake: meetup l
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#137](https://github.com/commitizen-tools/commitizen/issues/137) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
+1. 💪 Opened PR [#305](https://github.com/commitizen-tools/commitizen/pull/305) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
 2. 🗣 Commented on [#137](https://github.com/commitizen-tools/commitizen/issues/137) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
-3. 🗣 Commented on [#29](https://github.com/containers/podman-py/issues/29) in [containers/podman-py](https://github.com/containers/podman-py)
+3. 🗣 Commented on [#137](https://github.com/commitizen-tools/commitizen/issues/137) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
 4. 🗣 Commented on [#29](https://github.com/containers/podman-py/issues/29) in [containers/podman-py](https://github.com/containers/podman-py)
-5. 🎉 Merged PR [#6](https://github.com/danvergara/danvergara/pull/6) in [danvergara/danvergara](https://github.com/danvergara/danvergara)
+5. 🗣 Commented on [#29](https://github.com/containers/podman-py/issues/29) in [containers/podman-py](https://github.com/containers/podman-py)
 <!--END_SECTION:activity-->
