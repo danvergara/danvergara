@@ -54,9 +54,9 @@ I'm backend developer :robot:. Co-organizer of PyMX, the Python :snake: meetup l
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#539](https://github.com/mongodb/mongo-go-driver/pull/539) in [mongodb/mongo-go-driver](https://github.com/mongodb/mongo-go-driver)
-2. 💪 Opened PR [#305](https://github.com/commitizen-tools/commitizen/pull/305) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
-3. 🗣 Commented on [#137](https://github.com/commitizen-tools/commitizen/issues/137) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
+1. 🗣 Commented on [#539](https://github.com/mongodb/mongo-go-driver/issues/539) in [mongodb/mongo-go-driver](https://github.com/mongodb/mongo-go-driver)
+2. 💪 Opened PR [#539](https://github.com/mongodb/mongo-go-driver/pull/539) in [mongodb/mongo-go-driver](https://github.com/mongodb/mongo-go-driver)
+3. 💪 Opened PR [#305](https://github.com/commitizen-tools/commitizen/pull/305) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
 4. 🗣 Commented on [#137](https://github.com/commitizen-tools/commitizen/issues/137) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
-5. 🗣 Commented on [#29](https://github.com/containers/podman-py/issues/29) in [containers/podman-py](https://github.com/containers/podman-py)
+5. 🗣 Commented on [#137](https://github.com/commitizen-tools/commitizen/issues/137) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
 <!--END_SECTION:activity-->
