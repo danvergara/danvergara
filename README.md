@@ -55,8 +55,8 @@ I'm backend developer :robot:. Co-organizer of PyMX, the Python :snake: meetup l
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#315](https://github.com/commitizen-tools/commitizen/issues/315) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
-2. 💪 Opened PR [#315](https://github.com/commitizen-tools/commitizen/pull/315) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
-3. 🗣 Commented on [#313](https://github.com/commitizen-tools/commitizen/issues/313) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
+2. 🗣 Commented on [#315](https://github.com/commitizen-tools/commitizen/issues/315) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
+3. 💪 Opened PR [#315](https://github.com/commitizen-tools/commitizen/pull/315) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
 4. 🗣 Commented on [#313](https://github.com/commitizen-tools/commitizen/issues/313) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
-5. ❗️ Opened issue [#314](https://github.com/commitizen-tools/commitizen/issues/314) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
+5. 🗣 Commented on [#313](https://github.com/commitizen-tools/commitizen/issues/313) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
 <!--END_SECTION:activity-->
