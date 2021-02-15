@@ -54,9 +54,9 @@ I'm backend developer :robot:. Co-organizer of PyMX, the Python :snake: meetup l
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#9](https://github.com/gophers-mx/recursos/pull/9) in [gophers-mx/recursos](https://github.com/gophers-mx/recursos)
-2. 🎉 Merged PR [#8](https://github.com/gophers-mx/recursos/pull/8) in [gophers-mx/recursos](https://github.com/gophers-mx/recursos)
-3. 🎉 Merged PR [#7](https://github.com/gophers-mx/recursos/pull/7) in [gophers-mx/recursos](https://github.com/gophers-mx/recursos)
-4. ❗️ Opened issue [#6](https://github.com/gophers-mx/recursos/issues/6) in [gophers-mx/recursos](https://github.com/gophers-mx/recursos)
-5. 💪 Opened PR [#5](https://github.com/gophers-mx/recursos/pull/5) in [gophers-mx/recursos](https://github.com/gophers-mx/recursos)
+1. ❗️ Opened issue [#10](https://github.com/gophers-mx/recursos/issues/10) in [gophers-mx/recursos](https://github.com/gophers-mx/recursos)
+2. ❗️ Closed issue [#6](https://github.com/gophers-mx/recursos/issues/6) in [gophers-mx/recursos](https://github.com/gophers-mx/recursos)
+3. 🗣 Commented on [#6](https://github.com/gophers-mx/recursos/issues/6) in [gophers-mx/recursos](https://github.com/gophers-mx/recursos)
+4. 🎉 Merged PR [#9](https://github.com/gophers-mx/recursos/pull/9) in [gophers-mx/recursos](https://github.com/gophers-mx/recursos)
+5. 🎉 Merged PR [#8](https://github.com/gophers-mx/recursos/pull/8) in [gophers-mx/recursos](https://github.com/gophers-mx/recursos)
 <!--END_SECTION:activity-->
