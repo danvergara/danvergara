@@ -54,9 +54,9 @@ I'm backend developer :robot:. Co-organizer of PyMX, the Python :snake: meetup l
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#33](https://github.com/danvergara/dblab/pull/33) in [danvergara/dblab](https://github.com/danvergara/dblab)
-2. 🎉 Merged PR [#32](https://github.com/danvergara/dblab/pull/32) in [danvergara/dblab](https://github.com/danvergara/dblab)
-3. 💪 Opened PR [#32](https://github.com/danvergara/dblab/pull/32) in [danvergara/dblab](https://github.com/danvergara/dblab)
-4. 🗣 Commented on [#31](https://github.com/danvergara/dblab/issues/31) in [danvergara/dblab](https://github.com/danvergara/dblab)
-5. 🎉 Merged PR [#30](https://github.com/danvergara/dblab/pull/30) in [danvergara/dblab](https://github.com/danvergara/dblab)
+1. 🎉 Merged PR [#35](https://github.com/danvergara/dblab/pull/35) in [danvergara/dblab](https://github.com/danvergara/dblab)
+2. 💪 Opened PR [#35](https://github.com/danvergara/dblab/pull/35) in [danvergara/dblab](https://github.com/danvergara/dblab)
+3. ❗️ Opened issue [#34](https://github.com/danvergara/dblab/issues/34) in [danvergara/dblab](https://github.com/danvergara/dblab)
+4. 🎉 Merged PR [#33](https://github.com/danvergara/dblab/pull/33) in [danvergara/dblab](https://github.com/danvergara/dblab)
+5. 💪 Opened PR [#33](https://github.com/danvergara/dblab/pull/33) in [danvergara/dblab](https://github.com/danvergara/dblab)
 <!--END_SECTION:activity-->
