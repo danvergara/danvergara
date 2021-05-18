@@ -10,7 +10,7 @@ I'm backend developer :robot:. Co-organizer of PyMX, the Python :snake: meetup l
 
 * **BACKEND DEVELOPER**
     (Ardan Labs | MAR 2021 - )
-    * working on maitaining Go microservices running on top of k8s clusters.
+    * working on maintaining Go microservices running on top of k8s clusters.
     * Stack: Go, go-swagger, Kubernetes.
 
 * **BACKEND DEVELOPER**
