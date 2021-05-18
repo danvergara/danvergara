@@ -9,7 +9,12 @@ I'm backend developer :robot:. Co-organizer of PyMX, the Python :snake: meetup l
 # Experience:
 
 * **BACKEND DEVELOPER**
-    (Voxie | SEP 2020 - )
+    (Ardan Labs | MAR 2021 - )
+    * working on maitaining Go microservices running on top of k8s clusters.
+    * Stack: Go, go-swagger, Kubernetes.
+
+* **BACKEND DEVELOPER**
+    (Voxie | SEP 2020 - MAR 2021 )
     * Working on a Golang gRPC micro-service running on top of a K8s cluster
     * Stack: PHP, Laravel, Golang, gRPC, Kubernetes, Laravel Vapor, AWS
 
