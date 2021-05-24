@@ -59,9 +59,9 @@ I'm backend developer :robot:. Co-organizer of PyMX, the Python :snake: meetup l
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#1](https://github.com/gophers-mx/recursos/issues/1) in [gophers-mx/recursos](https://github.com/gophers-mx/recursos)
-2. 🗣 Commented on [#1](https://github.com/gophers-mx/recursos/issues/1) in [gophers-mx/recursos](https://github.com/gophers-mx/recursos)
-3. 🎉 Merged PR [#16](https://github.com/gophers-mx/recursos/pull/16) in [gophers-mx/recursos](https://github.com/gophers-mx/recursos)
-4. 🗣 Commented on [#38](https://github.com/danvergara/dblab/issues/38) in [danvergara/dblab](https://github.com/danvergara/dblab)
-5. 🎉 Merged PR [#37](https://github.com/danvergara/dblab/pull/37) in [danvergara/dblab](https://github.com/danvergara/dblab)
+1. 💪 Opened PR [#40](https://github.com/danvergara/dblab/pull/40) in [danvergara/dblab](https://github.com/danvergara/dblab)
+2. ❗️ Closed issue [#1](https://github.com/gophers-mx/recursos/issues/1) in [gophers-mx/recursos](https://github.com/gophers-mx/recursos)
+3. 🗣 Commented on [#1](https://github.com/gophers-mx/recursos/issues/1) in [gophers-mx/recursos](https://github.com/gophers-mx/recursos)
+4. 🎉 Merged PR [#16](https://github.com/gophers-mx/recursos/pull/16) in [gophers-mx/recursos](https://github.com/gophers-mx/recursos)
+5. 🗣 Commented on [#38](https://github.com/danvergara/dblab/issues/38) in [danvergara/dblab](https://github.com/danvergara/dblab)
 <!--END_SECTION:activity-->
