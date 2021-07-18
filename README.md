@@ -59,9 +59,9 @@ I'm backend developer :robot:. Co-organizer of PyMX, the Python :snake: meetup l
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#6](https://github.com/danvergara/seeder/pull/6) in [danvergara/seeder](https://github.com/danvergara/seeder)
-2. 🎉 Merged PR [#5](https://github.com/danvergara/seeder/pull/5) in [danvergara/seeder](https://github.com/danvergara/seeder)
-3. 💪 Opened PR [#5](https://github.com/danvergara/seeder/pull/5) in [danvergara/seeder](https://github.com/danvergara/seeder)
-4. 🎉 Merged PR [#4](https://github.com/danvergara/seeder/pull/4) in [danvergara/seeder](https://github.com/danvergara/seeder)
-5. 💪 Opened PR [#4](https://github.com/danvergara/seeder/pull/4) in [danvergara/seeder](https://github.com/danvergara/seeder)
+1. 🎉 Merged PR [#6](https://github.com/danvergara/seeder/pull/6) in [danvergara/seeder](https://github.com/danvergara/seeder)
+2. 💪 Opened PR [#6](https://github.com/danvergara/seeder/pull/6) in [danvergara/seeder](https://github.com/danvergara/seeder)
+3. 🎉 Merged PR [#5](https://github.com/danvergara/seeder/pull/5) in [danvergara/seeder](https://github.com/danvergara/seeder)
+4. 💪 Opened PR [#5](https://github.com/danvergara/seeder/pull/5) in [danvergara/seeder](https://github.com/danvergara/seeder)
+5. 🎉 Merged PR [#4](https://github.com/danvergara/seeder/pull/4) in [danvergara/seeder](https://github.com/danvergara/seeder)
 <!--END_SECTION:activity-->
