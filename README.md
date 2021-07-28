@@ -59,9 +59,9 @@ I'm backend developer :robot:. Co-organizer of PyMX, the Python :snake: meetup l
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#60](https://github.com/danvergara/dblab/pull/60) in [danvergara/dblab](https://github.com/danvergara/dblab)
-2. 💪 Opened PR [#60](https://github.com/danvergara/dblab/pull/60) in [danvergara/dblab](https://github.com/danvergara/dblab)
-3. 🎉 Merged PR [#1](https://github.com/danvergara/homebrew-tools/pull/1) in [danvergara/homebrew-tools](https://github.com/danvergara/homebrew-tools)
-4. 💪 Opened PR [#1](https://github.com/danvergara/homebrew-tools/pull/1) in [danvergara/homebrew-tools](https://github.com/danvergara/homebrew-tools)
-5. 🎉 Merged PR [#20](https://github.com/danvergara/seeder/pull/20) in [danvergara/seeder](https://github.com/danvergara/seeder)
+1. 🎉 Merged PR [#61](https://github.com/danvergara/dblab/pull/61) in [danvergara/dblab](https://github.com/danvergara/dblab)
+2. 💪 Opened PR [#61](https://github.com/danvergara/dblab/pull/61) in [danvergara/dblab](https://github.com/danvergara/dblab)
+3. 🎉 Merged PR [#60](https://github.com/danvergara/dblab/pull/60) in [danvergara/dblab](https://github.com/danvergara/dblab)
+4. 💪 Opened PR [#60](https://github.com/danvergara/dblab/pull/60) in [danvergara/dblab](https://github.com/danvergara/dblab)
+5. 🎉 Merged PR [#1](https://github.com/danvergara/homebrew-tools/pull/1) in [danvergara/homebrew-tools](https://github.com/danvergara/homebrew-tools)
 <!--END_SECTION:activity-->
