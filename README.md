@@ -59,9 +59,9 @@ I'm backend developer :robot:. Co-organizer of PyMX, the Python :snake: meetup l
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/danvergara/pybitcointools/pull/1) in [danvergara/pybitcointools](https://github.com/danvergara/pybitcointools)
-2. ❗️ Opened issue [#80](https://github.com/danvergara/dblab/issues/80) in [danvergara/dblab](https://github.com/danvergara/dblab)
-3. 💪 Opened PR [#1](https://github.com/danvergara/pybitcointools/pull/1) in [danvergara/pybitcointools](https://github.com/danvergara/pybitcointools)
-4. 🎉 Merged PR [#79](https://github.com/danvergara/dblab/pull/79) in [danvergara/dblab](https://github.com/danvergara/dblab)
-5. 💪 Opened PR [#79](https://github.com/danvergara/dblab/pull/79) in [danvergara/dblab](https://github.com/danvergara/dblab)
+1. 🎉 Merged PR [#3](https://github.com/danvergara/pybtctools/pull/3) in [danvergara/pybtctools](https://github.com/danvergara/pybtctools)
+2. 💪 Opened PR [#3](https://github.com/danvergara/pybtctools/pull/3) in [danvergara/pybtctools](https://github.com/danvergara/pybtctools)
+3. 🎉 Merged PR [#2](https://github.com/danvergara/pybitcointools/pull/2) in [danvergara/pybitcointools](https://github.com/danvergara/pybitcointools)
+4. 💪 Opened PR [#2](https://github.com/danvergara/pybitcointools/pull/2) in [danvergara/pybitcointools](https://github.com/danvergara/pybitcointools)
+5. 🎉 Merged PR [#1](https://github.com/danvergara/pybitcointools/pull/1) in [danvergara/pybitcointools](https://github.com/danvergara/pybitcointools)
 <!--END_SECTION:activity-->
