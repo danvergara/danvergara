@@ -59,9 +59,9 @@ I'm backend developer :robot:. Co-organizer of PyMX, the Python :snake: meetup l
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#8](https://github.com/danvergara/pybtctools/pull/8) in [danvergara/pybtctools](https://github.com/danvergara/pybtctools)
-2. 💪 Opened PR [#8](https://github.com/danvergara/pybtctools/pull/8) in [danvergara/pybtctools](https://github.com/danvergara/pybtctools)
-3. 🎉 Merged PR [#7](https://github.com/danvergara/pybtctools/pull/7) in [danvergara/pybtctools](https://github.com/danvergara/pybtctools)
-4. 💪 Opened PR [#7](https://github.com/danvergara/pybtctools/pull/7) in [danvergara/pybtctools](https://github.com/danvergara/pybtctools)
-5. 🎉 Merged PR [#6](https://github.com/danvergara/pybtctools/pull/6) in [danvergara/pybtctools](https://github.com/danvergara/pybtctools)
+1. 🎉 Merged PR [#10](https://github.com/danvergara/pybtctools/pull/10) in [danvergara/pybtctools](https://github.com/danvergara/pybtctools)
+2. 💪 Opened PR [#10](https://github.com/danvergara/pybtctools/pull/10) in [danvergara/pybtctools](https://github.com/danvergara/pybtctools)
+3. 🎉 Merged PR [#9](https://github.com/danvergara/pybtctools/pull/9) in [danvergara/pybtctools](https://github.com/danvergara/pybtctools)
+4. 💪 Opened PR [#9](https://github.com/danvergara/pybtctools/pull/9) in [danvergara/pybtctools](https://github.com/danvergara/pybtctools)
+5. 🎉 Merged PR [#8](https://github.com/danvergara/pybtctools/pull/8) in [danvergara/pybtctools](https://github.com/danvergara/pybtctools)
 <!--END_SECTION:activity-->
