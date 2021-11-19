@@ -59,9 +59,9 @@ I'm backend developer :robot:. Co-organizer of PyMX, the Python :snake: meetup l
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#27](https://github.com/danvergara/seeder/pull/27) in [danvergara/seeder](https://github.com/danvergara/seeder)
-2. 💪 Opened PR [#27](https://github.com/danvergara/seeder/pull/27) in [danvergara/seeder](https://github.com/danvergara/seeder)
-3. ❗️ Opened issue [#26](https://github.com/danvergara/seeder/issues/26) in [danvergara/seeder](https://github.com/danvergara/seeder)
-4. 💪 Opened PR [#6](https://github.com/Rings-of-Fire/ring-of-fire/pull/6) in [Rings-of-Fire/ring-of-fire](https://github.com/Rings-of-Fire/ring-of-fire)
-5. ❗️ Closed issue [#49](https://github.com/danvergara/dblab/issues/49) in [danvergara/dblab](https://github.com/danvergara/dblab)
+1. 🗣 Commented on [#26](https://github.com/danvergara/seeder/issues/26) in [danvergara/seeder](https://github.com/danvergara/seeder)
+2. ❗️ Closed issue [#26](https://github.com/danvergara/seeder/issues/26) in [danvergara/seeder](https://github.com/danvergara/seeder)
+3. 🎉 Merged PR [#27](https://github.com/danvergara/seeder/pull/27) in [danvergara/seeder](https://github.com/danvergara/seeder)
+4. 💪 Opened PR [#27](https://github.com/danvergara/seeder/pull/27) in [danvergara/seeder](https://github.com/danvergara/seeder)
+5. ❗️ Opened issue [#26](https://github.com/danvergara/seeder/issues/26) in [danvergara/seeder](https://github.com/danvergara/seeder)
 <!--END_SECTION:activity-->
