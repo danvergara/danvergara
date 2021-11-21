@@ -59,9 +59,9 @@ I'm backend developer :robot:. Co-organizer of PyMX, the Python :snake: meetup l
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#318](https://github.com/curly60e/pyblock/issues/318) in [curly60e/pyblock](https://github.com/curly60e/pyblock)
-2. ❗️ Opened issue [#318](https://github.com/curly60e/pyblock/issues/318) in [curly60e/pyblock](https://github.com/curly60e/pyblock)
-3. 🗣 Commented on [#26](https://github.com/danvergara/seeder/issues/26) in [danvergara/seeder](https://github.com/danvergara/seeder)
-4. ❗️ Closed issue [#26](https://github.com/danvergara/seeder/issues/26) in [danvergara/seeder](https://github.com/danvergara/seeder)
-5. 🎉 Merged PR [#27](https://github.com/danvergara/seeder/pull/27) in [danvergara/seeder](https://github.com/danvergara/seeder)
+1. 💪 Opened PR [#319](https://github.com/curly60e/pyblock/pull/319) in [curly60e/pyblock](https://github.com/curly60e/pyblock)
+2. 🗣 Commented on [#318](https://github.com/curly60e/pyblock/issues/318) in [curly60e/pyblock](https://github.com/curly60e/pyblock)
+3. ❗️ Opened issue [#318](https://github.com/curly60e/pyblock/issues/318) in [curly60e/pyblock](https://github.com/curly60e/pyblock)
+4. 🗣 Commented on [#26](https://github.com/danvergara/seeder/issues/26) in [danvergara/seeder](https://github.com/danvergara/seeder)
+5. ❗️ Closed issue [#26](https://github.com/danvergara/seeder/issues/26) in [danvergara/seeder](https://github.com/danvergara/seeder)
 <!--END_SECTION:activity-->
