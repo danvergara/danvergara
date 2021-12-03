@@ -59,9 +59,9 @@ I'm backend developer :robot:. Co-organizer of PyMX, the Python :snake: meetup l
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#387](https://github.com/curly60e/pyblock/pull/387) in [curly60e/pyblock](https://github.com/curly60e/pyblock)
-2. ❗️ Opened issue [#351](https://github.com/curly60e/pyblock/issues/351) in [curly60e/pyblock](https://github.com/curly60e/pyblock)
-3. ❗️ Opened issue [#350](https://github.com/curly60e/pyblock/issues/350) in [curly60e/pyblock](https://github.com/curly60e/pyblock)
-4. 🗣 Commented on [#319](https://github.com/curly60e/pyblock/issues/319) in [curly60e/pyblock](https://github.com/curly60e/pyblock)
+1. 🗣 Commented on [#387](https://github.com/curly60e/pyblock/issues/387) in [curly60e/pyblock](https://github.com/curly60e/pyblock)
+2. 💪 Opened PR [#387](https://github.com/curly60e/pyblock/pull/387) in [curly60e/pyblock](https://github.com/curly60e/pyblock)
+3. ❗️ Opened issue [#351](https://github.com/curly60e/pyblock/issues/351) in [curly60e/pyblock](https://github.com/curly60e/pyblock)
+4. ❗️ Opened issue [#350](https://github.com/curly60e/pyblock/issues/350) in [curly60e/pyblock](https://github.com/curly60e/pyblock)
 5. 🗣 Commented on [#319](https://github.com/curly60e/pyblock/issues/319) in [curly60e/pyblock](https://github.com/curly60e/pyblock)
 <!--END_SECTION:activity-->
