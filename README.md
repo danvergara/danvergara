@@ -62,6 +62,6 @@ I'm backend developer :robot:. Co-organizer of PyMX, the Python :snake: meetup l
 1. 🗣 Commented on [#387](https://github.com/curly60e/pyblock/issues/387) in [curly60e/pyblock](https://github.com/curly60e/pyblock)
 2. 🗣 Commented on [#387](https://github.com/curly60e/pyblock/issues/387) in [curly60e/pyblock](https://github.com/curly60e/pyblock)
 3. 🗣 Commented on [#387](https://github.com/curly60e/pyblock/issues/387) in [curly60e/pyblock](https://github.com/curly60e/pyblock)
-4. 💪 Opened PR [#387](https://github.com/curly60e/pyblock/pull/387) in [curly60e/pyblock](https://github.com/curly60e/pyblock)
-5. ❗️ Opened issue [#351](https://github.com/curly60e/pyblock/issues/351) in [curly60e/pyblock](https://github.com/curly60e/pyblock)
+4. 🗣 Commented on [#387](https://github.com/curly60e/pyblock/issues/387) in [curly60e/pyblock](https://github.com/curly60e/pyblock)
+5. 💪 Opened PR [#387](https://github.com/curly60e/pyblock/pull/387) in [curly60e/pyblock](https://github.com/curly60e/pyblock)
 <!--END_SECTION:activity-->
