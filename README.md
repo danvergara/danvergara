@@ -59,9 +59,9 @@ I'm backend developer :robot:. Co-organizer of PyMX, the Python :snake: meetup l
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#400](https://github.com/curly60e/pyblock/pull/400) in [curly60e/pyblock](https://github.com/curly60e/pyblock)
-2. ❗️ Opened issue [#398](https://github.com/curly60e/pyblock/issues/398) in [curly60e/pyblock](https://github.com/curly60e/pyblock)
-3. 🗣 Commented on [#387](https://github.com/curly60e/pyblock/issues/387) in [curly60e/pyblock](https://github.com/curly60e/pyblock)
-4. 🗣 Commented on [#387](https://github.com/curly60e/pyblock/issues/387) in [curly60e/pyblock](https://github.com/curly60e/pyblock)
-5. 🗣 Commented on [#387](https://github.com/curly60e/pyblock/issues/387) in [curly60e/pyblock](https://github.com/curly60e/pyblock)
+1. ❌ Closed PR [#12](https://github.com/BentoBox-Project/lazypodman/pull/12) in [BentoBox-Project/lazypodman](https://github.com/BentoBox-Project/lazypodman)
+2. ❌ Closed PR [#160](https://github.com/dilshod/xlsx2csv/pull/160) in [dilshod/xlsx2csv](https://github.com/dilshod/xlsx2csv)
+3. ❌ Closed PR [#14](https://github.com/geekpradd/PyLyrics/pull/14) in [geekpradd/PyLyrics](https://github.com/geekpradd/PyLyrics)
+4. 💪 Opened PR [#400](https://github.com/curly60e/pyblock/pull/400) in [curly60e/pyblock](https://github.com/curly60e/pyblock)
+5. ❗️ Opened issue [#398](https://github.com/curly60e/pyblock/issues/398) in [curly60e/pyblock](https://github.com/curly60e/pyblock)
 <!--END_SECTION:activity-->
