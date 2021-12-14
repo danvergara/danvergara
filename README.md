@@ -60,8 +60,8 @@ I'm backend developer :robot:. Co-organizer of PyMX, the Python :snake: meetup l
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#83](https://github.com/danvergara/dblab/issues/83) in [danvergara/dblab](https://github.com/danvergara/dblab)
-2. 💪 Opened PR [#84](https://github.com/danvergara/dblab/pull/84) in [danvergara/dblab](https://github.com/danvergara/dblab)
-3. ❌ Closed PR [#12](https://github.com/BentoBox-Project/lazypodman/pull/12) in [BentoBox-Project/lazypodman](https://github.com/BentoBox-Project/lazypodman)
-4. ❌ Closed PR [#160](https://github.com/dilshod/xlsx2csv/pull/160) in [dilshod/xlsx2csv](https://github.com/dilshod/xlsx2csv)
-5. ❌ Closed PR [#14](https://github.com/geekpradd/PyLyrics/pull/14) in [geekpradd/PyLyrics](https://github.com/geekpradd/PyLyrics)
+2. 🗣 Commented on [#83](https://github.com/danvergara/dblab/issues/83) in [danvergara/dblab](https://github.com/danvergara/dblab)
+3. 💪 Opened PR [#84](https://github.com/danvergara/dblab/pull/84) in [danvergara/dblab](https://github.com/danvergara/dblab)
+4. ❌ Closed PR [#12](https://github.com/BentoBox-Project/lazypodman/pull/12) in [BentoBox-Project/lazypodman](https://github.com/BentoBox-Project/lazypodman)
+5. ❌ Closed PR [#160](https://github.com/dilshod/xlsx2csv/pull/160) in [dilshod/xlsx2csv](https://github.com/dilshod/xlsx2csv)
 <!--END_SECTION:activity-->
