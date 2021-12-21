@@ -59,9 +59,9 @@ I'm backend developer :robot:. Co-organizer of PyMX, the Python :snake: meetup l
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#408](https://github.com/curly60e/pyblock/pull/408) in [curly60e/pyblock](https://github.com/curly60e/pyblock)
-2. 🎉 Merged PR [#84](https://github.com/danvergara/dblab/pull/84) in [danvergara/dblab](https://github.com/danvergara/dblab)
-3. 🗣 Commented on [#83](https://github.com/danvergara/dblab/issues/83) in [danvergara/dblab](https://github.com/danvergara/dblab)
+1. 💪 Opened PR [#85](https://github.com/danvergara/dblab/pull/85) in [danvergara/dblab](https://github.com/danvergara/dblab)
+2. 💪 Opened PR [#408](https://github.com/curly60e/pyblock/pull/408) in [curly60e/pyblock](https://github.com/curly60e/pyblock)
+3. 🎉 Merged PR [#84](https://github.com/danvergara/dblab/pull/84) in [danvergara/dblab](https://github.com/danvergara/dblab)
 4. 🗣 Commented on [#83](https://github.com/danvergara/dblab/issues/83) in [danvergara/dblab](https://github.com/danvergara/dblab)
-5. 💪 Opened PR [#84](https://github.com/danvergara/dblab/pull/84) in [danvergara/dblab](https://github.com/danvergara/dblab)
+5. 🗣 Commented on [#83](https://github.com/danvergara/dblab/issues/83) in [danvergara/dblab](https://github.com/danvergara/dblab)
 <!--END_SECTION:activity-->
