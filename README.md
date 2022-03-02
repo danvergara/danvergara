@@ -59,9 +59,9 @@ I'm backend developer :robot:. Co-organizer of PyMX, the Python :snake: meetup l
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#2](https://github.com/danvergara/prolog/pull/2) in [danvergara/prolog](https://github.com/danvergara/prolog)
-2. 🎉 Merged PR [#1](https://github.com/danvergara/prolog/pull/1) in [danvergara/prolog](https://github.com/danvergara/prolog)
-3. 💪 Opened PR [#1](https://github.com/danvergara/prolog/pull/1) in [danvergara/prolog](https://github.com/danvergara/prolog)
-4. 🎉 Merged PR [#29](https://github.com/danvergara/seeder/pull/29) in [danvergara/seeder](https://github.com/danvergara/seeder)
-5. 🎉 Merged PR [#88](https://github.com/danvergara/dblab/pull/88) in [danvergara/dblab](https://github.com/danvergara/dblab)
+1. 🎉 Merged PR [#2](https://github.com/danvergara/prolog/pull/2) in [danvergara/prolog](https://github.com/danvergara/prolog)
+2. 💪 Opened PR [#2](https://github.com/danvergara/prolog/pull/2) in [danvergara/prolog](https://github.com/danvergara/prolog)
+3. 🎉 Merged PR [#1](https://github.com/danvergara/prolog/pull/1) in [danvergara/prolog](https://github.com/danvergara/prolog)
+4. 💪 Opened PR [#1](https://github.com/danvergara/prolog/pull/1) in [danvergara/prolog](https://github.com/danvergara/prolog)
+5. 🎉 Merged PR [#29](https://github.com/danvergara/seeder/pull/29) in [danvergara/seeder](https://github.com/danvergara/seeder)
 <!--END_SECTION:activity-->
