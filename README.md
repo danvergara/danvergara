@@ -59,9 +59,9 @@ I'm backend developer :robot:. Co-organizer of PyMX, the Python :snake: meetup l
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#4](https://github.com/danvergara/prolog/pull/4) in [danvergara/prolog](https://github.com/danvergara/prolog)
-2. 💪 Opened PR [#4](https://github.com/danvergara/prolog/pull/4) in [danvergara/prolog](https://github.com/danvergara/prolog)
-3. 🎉 Merged PR [#3](https://github.com/danvergara/prolog/pull/3) in [danvergara/prolog](https://github.com/danvergara/prolog)
-4. 💪 Opened PR [#3](https://github.com/danvergara/prolog/pull/3) in [danvergara/prolog](https://github.com/danvergara/prolog)
-5. 🎉 Merged PR [#2](https://github.com/danvergara/prolog/pull/2) in [danvergara/prolog](https://github.com/danvergara/prolog)
+1. 💪 Opened PR [#3](https://github.com/gophers-mx/codigo-de-conducta/pull/3) in [gophers-mx/codigo-de-conducta](https://github.com/gophers-mx/codigo-de-conducta)
+2. ❌ Closed PR [#6](https://github.com/eventloop/codigo-de-conducta/pull/6) in [eventloop/codigo-de-conducta](https://github.com/eventloop/codigo-de-conducta)
+3. 💪 Opened PR [#6](https://github.com/eventloop/codigo-de-conducta/pull/6) in [eventloop/codigo-de-conducta](https://github.com/eventloop/codigo-de-conducta)
+4. 🎉 Merged PR [#4](https://github.com/danvergara/prolog/pull/4) in [danvergara/prolog](https://github.com/danvergara/prolog)
+5. 💪 Opened PR [#4](https://github.com/danvergara/prolog/pull/4) in [danvergara/prolog](https://github.com/danvergara/prolog)
 <!--END_SECTION:activity-->
