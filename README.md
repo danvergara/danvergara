@@ -59,9 +59,9 @@ I'm backend developer :robot:. Co-organizer of PyMX, the Python :snake: meetup l
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#3](https://github.com/gophers-mx/codigo-de-conducta/pull/3) in [gophers-mx/codigo-de-conducta](https://github.com/gophers-mx/codigo-de-conducta)
-2. ❌ Closed PR [#6](https://github.com/eventloop/codigo-de-conducta/pull/6) in [eventloop/codigo-de-conducta](https://github.com/eventloop/codigo-de-conducta)
-3. 💪 Opened PR [#6](https://github.com/eventloop/codigo-de-conducta/pull/6) in [eventloop/codigo-de-conducta](https://github.com/eventloop/codigo-de-conducta)
-4. 🎉 Merged PR [#4](https://github.com/danvergara/prolog/pull/4) in [danvergara/prolog](https://github.com/danvergara/prolog)
-5. 💪 Opened PR [#4](https://github.com/danvergara/prolog/pull/4) in [danvergara/prolog](https://github.com/danvergara/prolog)
+1. 🗣 Commented on [#4](https://github.com/gophers-mx/codigo-de-conducta/issues/4) in [gophers-mx/codigo-de-conducta](https://github.com/gophers-mx/codigo-de-conducta)
+2. 💪 Opened PR [#4](https://github.com/gophers-mx/codigo-de-conducta/pull/4) in [gophers-mx/codigo-de-conducta](https://github.com/gophers-mx/codigo-de-conducta)
+3. ❌ Closed PR [#7](https://github.com/eventloop/codigo-de-conducta/pull/7) in [eventloop/codigo-de-conducta](https://github.com/eventloop/codigo-de-conducta)
+4. 💪 Opened PR [#7](https://github.com/eventloop/codigo-de-conducta/pull/7) in [eventloop/codigo-de-conducta](https://github.com/eventloop/codigo-de-conducta)
+5. 💪 Opened PR [#3](https://github.com/gophers-mx/codigo-de-conducta/pull/3) in [gophers-mx/codigo-de-conducta](https://github.com/gophers-mx/codigo-de-conducta)
 <!--END_SECTION:activity-->
