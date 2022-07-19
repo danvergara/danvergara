@@ -4,7 +4,7 @@ I'm backend developer :robot:. Co-organizer of PyMX, the Python :snake: meetup l
 
 📫 How to reach me:
 
-[![Follow on Twitter](https://img.shields.io/badge/--twitter?label=Twitter&logo=Twitter&style=social)](https://twitter.com/__danvergara__) [![Connect on LinkedIn](https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social)](https://www.linkedin.com/in/daniel-omar-vergara-pérez-2b5471159)
+Email: daniel.omar.vergara@gmail.com
 
 # Experience:
 
