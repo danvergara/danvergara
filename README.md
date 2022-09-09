@@ -1,21 +1,23 @@
 # Hello! I'm Daniel Vergara
 
-I'm backend developer :robot:. Co-organizer of PyMX, the Python :snake: meetup located in Mexico City. Core maintainer in Bento Box Open Source projects.
+I'm backend developer :robot:. Organizer at [GophersMX](https://t.me/golangmx). Core maintainer of [dblab](https://github.com/danvergara/dblab)
 
 📫 How to reach me:
 
-Email: daniel.omar.vergara@gmail.com
+[![Connect on LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniel-omar-vergara-pérez-2b5471159)
+[![email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](daniel.omar.vergara@gmail.com)
 
 # Experience:
 
 * **BACKEND DEVELOPER**
-    (Ardan Labs | MAR 2021 - )
-    * working on maintaining Go microservices running on top of k8s clusters.
-    * Stack: Go, go-swagger, Kubernetes.
+    (Ardan Labs | MAR 2021 - AUG 2022 )
+    * Worked on maintaining Go microservices running on top of k8s clusters.
+    * Led the transition from Python (Falcon) to Go (goswagger - sqlx - gRPC - Redis).
+    * Stack: Go, go-swagger, Kubernetes, gRPC, PostgreSQL, Redis.
 
 * **BACKEND DEVELOPER**
     (Voxie | SEP 2020 - MAR 2021 )
-    * Working on a Golang gRPC micro-service running on top of a K8s cluster
+    * Worked on a Golang gRPC micro-service running on top of a K8s cluster
     * Stack: PHP, Laravel, Golang, gRPC, Kubernetes, Laravel Vapor, AWS
 
 * **BACKEND DEVELOPER**
