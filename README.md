@@ -59,9 +59,9 @@ Email: daniel.omar.vergara@gmail.com
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#109](https://github.com/danvergara/dblab/pull/109) in [danvergara/dblab](https://github.com/danvergara/dblab)
-2. 🎉 Merged PR [#108](https://github.com/danvergara/dblab/pull/108) in [danvergara/dblab](https://github.com/danvergara/dblab)
-3. 💪 Opened PR [#108](https://github.com/danvergara/dblab/pull/108) in [danvergara/dblab](https://github.com/danvergara/dblab)
-4. 🎉 Merged PR [#107](https://github.com/danvergara/dblab/pull/107) in [danvergara/dblab](https://github.com/danvergara/dblab)
-5. 💪 Opened PR [#107](https://github.com/danvergara/dblab/pull/107) in [danvergara/dblab](https://github.com/danvergara/dblab)
+1. 🎉 Merged PR [#109](https://github.com/danvergara/dblab/pull/109) in [danvergara/dblab](https://github.com/danvergara/dblab)
+2. 💪 Opened PR [#109](https://github.com/danvergara/dblab/pull/109) in [danvergara/dblab](https://github.com/danvergara/dblab)
+3. 🎉 Merged PR [#108](https://github.com/danvergara/dblab/pull/108) in [danvergara/dblab](https://github.com/danvergara/dblab)
+4. 💪 Opened PR [#108](https://github.com/danvergara/dblab/pull/108) in [danvergara/dblab](https://github.com/danvergara/dblab)
+5. 🎉 Merged PR [#107](https://github.com/danvergara/dblab/pull/107) in [danvergara/dblab](https://github.com/danvergara/dblab)
 <!--END_SECTION:activity-->
