@@ -51,12 +51,6 @@ I'm backend developer :robot:. Organizer at [GophersMX](https://t.me/golangmx). 
     * Developed and maintained an API REST for some clients
     * Stack: Ruby on Rails, CoffeeScript, PostgreSQL and Heroku
 
-# EDUCATION:
-
-* **BACHELOR OF INDUSTRIAL ENGINEERING, MAJOR IN FINANCE**
-
-  BENEMÉRITA UNIVERSIDAD AUTONOMA DE PUEBLA (2011 - 2016)
-
 ## :nerd_face: Preferred programming languages:
 
 ![Dancing Gopher](http://static.velvetcache.org/pages/2018/06/13/party-gopher/dancing-gopher.gif)
