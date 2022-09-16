@@ -61,9 +61,9 @@ I'm backend developer :robot:. Organizer at [GophersMX](https://t.me/golangmx). 
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#2](https://github.com/danvergara/go_interview_questions/pull/2) in [danvergara/go_interview_questions](https://github.com/danvergara/go_interview_questions)
-2. 💪 Opened PR [#2](https://github.com/danvergara/go_interview_questions/pull/2) in [danvergara/go_interview_questions](https://github.com/danvergara/go_interview_questions)
-3. 🎉 Merged PR [#1](https://github.com/danvergara/go_interview_questions/pull/1) in [danvergara/go_interview_questions](https://github.com/danvergara/go_interview_questions)
-4. 💪 Opened PR [#1](https://github.com/danvergara/go_interview_questions/pull/1) in [danvergara/go_interview_questions](https://github.com/danvergara/go_interview_questions)
-5. 🎉 Merged PR [#10](https://github.com/danvergara/danvergara/pull/10) in [danvergara/danvergara](https://github.com/danvergara/danvergara)
+1. 🎉 Merged PR [#4](https://github.com/danvergara/go_interview_questions/pull/4) in [danvergara/go_interview_questions](https://github.com/danvergara/go_interview_questions)
+2. 💪 Opened PR [#4](https://github.com/danvergara/go_interview_questions/pull/4) in [danvergara/go_interview_questions](https://github.com/danvergara/go_interview_questions)
+3. 🎉 Merged PR [#3](https://github.com/danvergara/go_interview_questions/pull/3) in [danvergara/go_interview_questions](https://github.com/danvergara/go_interview_questions)
+4. 💪 Opened PR [#3](https://github.com/danvergara/go_interview_questions/pull/3) in [danvergara/go_interview_questions](https://github.com/danvergara/go_interview_questions)
+5. 🎉 Merged PR [#2](https://github.com/danvergara/go_interview_questions/pull/2) in [danvergara/go_interview_questions](https://github.com/danvergara/go_interview_questions)
 <!--END_SECTION:activity-->
