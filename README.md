@@ -61,9 +61,9 @@ I'm backend developer :robot:. Organizer at [GophersMX](https://t.me/golangmx). 
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#30](https://github.com/danvergara/seeder/pull/30) in [danvergara/seeder](https://github.com/danvergara/seeder)
-2. 🗣 Commented on [#77](https://github.com/danvergara/dblab/issues/77) in [danvergara/dblab](https://github.com/danvergara/dblab)
-3. 🎉 Merged PR [#4](https://github.com/danvergara/go_interview_questions/pull/4) in [danvergara/go_interview_questions](https://github.com/danvergara/go_interview_questions)
-4. 💪 Opened PR [#4](https://github.com/danvergara/go_interview_questions/pull/4) in [danvergara/go_interview_questions](https://github.com/danvergara/go_interview_questions)
-5. 🎉 Merged PR [#3](https://github.com/danvergara/go_interview_questions/pull/3) in [danvergara/go_interview_questions](https://github.com/danvergara/go_interview_questions)
+1. 🎉 Merged PR [#30](https://github.com/danvergara/seeder/pull/30) in [danvergara/seeder](https://github.com/danvergara/seeder)
+2. 💪 Opened PR [#30](https://github.com/danvergara/seeder/pull/30) in [danvergara/seeder](https://github.com/danvergara/seeder)
+3. 🗣 Commented on [#77](https://github.com/danvergara/dblab/issues/77) in [danvergara/dblab](https://github.com/danvergara/dblab)
+4. 🎉 Merged PR [#4](https://github.com/danvergara/go_interview_questions/pull/4) in [danvergara/go_interview_questions](https://github.com/danvergara/go_interview_questions)
+5. 💪 Opened PR [#4](https://github.com/danvergara/go_interview_questions/pull/4) in [danvergara/go_interview_questions](https://github.com/danvergara/go_interview_questions)
 <!--END_SECTION:activity-->
