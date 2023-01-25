@@ -61,9 +61,9 @@ I'm backend developer :robot:. Organizer at [GophersMX](https://t.me/golangmx). 
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#2](https://github.com/danvergara/ln_dev_playground/pull/2) in [danvergara/ln_dev_playground](https://github.com/danvergara/ln_dev_playground)
-2. 💪 Opened PR [#2](https://github.com/danvergara/ln_dev_playground/pull/2) in [danvergara/ln_dev_playground](https://github.com/danvergara/ln_dev_playground)
-3. 🗣 Commented on [#142](https://github.com/danvergara/dblab/issues/142) in [danvergara/dblab](https://github.com/danvergara/dblab)
-4. 🎉 Merged PR [#1](https://github.com/danvergara/ln_dev_playground/pull/1) in [danvergara/ln_dev_playground](https://github.com/danvergara/ln_dev_playground)
-5. 💪 Opened PR [#1](https://github.com/danvergara/ln_dev_playground/pull/1) in [danvergara/ln_dev_playground](https://github.com/danvergara/ln_dev_playground)
+1. 🎉 Merged PR [#143](https://github.com/danvergara/dblab/pull/143) in [danvergara/dblab](https://github.com/danvergara/dblab)
+2. 💪 Opened PR [#143](https://github.com/danvergara/dblab/pull/143) in [danvergara/dblab](https://github.com/danvergara/dblab)
+3. 🎉 Merged PR [#2](https://github.com/danvergara/ln_dev_playground/pull/2) in [danvergara/ln_dev_playground](https://github.com/danvergara/ln_dev_playground)
+4. 💪 Opened PR [#2](https://github.com/danvergara/ln_dev_playground/pull/2) in [danvergara/ln_dev_playground](https://github.com/danvergara/ln_dev_playground)
+5. 🗣 Commented on [#142](https://github.com/danvergara/dblab/issues/142) in [danvergara/dblab](https://github.com/danvergara/dblab)
 <!--END_SECTION:activity-->
