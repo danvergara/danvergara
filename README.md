@@ -61,9 +61,9 @@ I'm backend developer :robot:. Organizer at [GophersMX](https://t.me/golangmx). 
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#154](https://github.com/danvergara/dblab/issues/154) in [danvergara/dblab](https://github.com/danvergara/dblab)
-2. ❗️ Opened issue [#153](https://github.com/danvergara/dblab/issues/153) in [danvergara/dblab](https://github.com/danvergara/dblab)
-3. 💪 Opened PR [#1](https://github.com/avestruz-nost-rdev/avestruz_nostream_infra/pull/1) in [avestruz-nost-rdev/avestruz_nostream_infra](https://github.com/avestruz-nost-rdev/avestruz_nostream_infra)
-4. 🎉 Merged PR [#3](https://github.com/gophers-mx/just-go/pull/3) in [gophers-mx/just-go](https://github.com/gophers-mx/just-go)
-5. 🎉 Merged PR [#152](https://github.com/danvergara/dblab/pull/152) in [danvergara/dblab](https://github.com/danvergara/dblab)
+1. 💪 Opened PR [#155](https://github.com/danvergara/dblab/pull/155) in [danvergara/dblab](https://github.com/danvergara/dblab)
+2. ❗️ Opened issue [#154](https://github.com/danvergara/dblab/issues/154) in [danvergara/dblab](https://github.com/danvergara/dblab)
+3. ❗️ Opened issue [#153](https://github.com/danvergara/dblab/issues/153) in [danvergara/dblab](https://github.com/danvergara/dblab)
+4. 💪 Opened PR [#1](https://github.com/avestruz-nost-rdev/avestruz_nostream_infra/pull/1) in [avestruz-nost-rdev/avestruz_nostream_infra](https://github.com/avestruz-nost-rdev/avestruz_nostream_infra)
+5. 🎉 Merged PR [#3](https://github.com/gophers-mx/just-go/pull/3) in [gophers-mx/just-go](https://github.com/gophers-mx/just-go)
 <!--END_SECTION:activity-->
