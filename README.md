@@ -61,9 +61,9 @@ I'm backend developer :robot:. Organizer at [GophersMX](https://t.me/golangmx). 
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#158](https://github.com/danvergara/dblab/issues/158) in [danvergara/dblab](https://github.com/danvergara/dblab)
-2. 🗣 Commented on [#515](https://github.com/getumbrel/umbrel-apps/issues/515) in [getumbrel/umbrel-apps](https://github.com/getumbrel/umbrel-apps)
-3. 🗣 Commented on [#515](https://github.com/getumbrel/umbrel-apps/issues/515) in [getumbrel/umbrel-apps](https://github.com/getumbrel/umbrel-apps)
+1. 🎉 Merged PR [#159](https://github.com/danvergara/dblab/pull/159) in [danvergara/dblab](https://github.com/danvergara/dblab)
+2. 💪 Opened PR [#159](https://github.com/danvergara/dblab/pull/159) in [danvergara/dblab](https://github.com/danvergara/dblab)
+3. 🗣 Commented on [#158](https://github.com/danvergara/dblab/issues/158) in [danvergara/dblab](https://github.com/danvergara/dblab)
 4. 🗣 Commented on [#515](https://github.com/getumbrel/umbrel-apps/issues/515) in [getumbrel/umbrel-apps](https://github.com/getumbrel/umbrel-apps)
 5. 🗣 Commented on [#515](https://github.com/getumbrel/umbrel-apps/issues/515) in [getumbrel/umbrel-apps](https://github.com/getumbrel/umbrel-apps)
 <!--END_SECTION:activity-->
