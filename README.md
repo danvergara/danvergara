@@ -61,9 +61,9 @@ I'm backend developer :robot:. Organizer at [GophersMX](https://t.me/golangmx). 
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#2](https://github.com/danvergara/nostream_quadlet/pull/2) in [danvergara/nostream_quadlet](https://github.com/danvergara/nostream_quadlet)
-2. 💪 Opened PR [#2](https://github.com/danvergara/nostream_quadlet/pull/2) in [danvergara/nostream_quadlet](https://github.com/danvergara/nostream_quadlet)
-3. 🎉 Merged PR [#1](https://github.com/danvergara/nostream_quadlet/pull/1) in [danvergara/nostream_quadlet](https://github.com/danvergara/nostream_quadlet)
-4. 💪 Opened PR [#1](https://github.com/danvergara/nostream_quadlet/pull/1) in [danvergara/nostream_quadlet](https://github.com/danvergara/nostream_quadlet)
-5. 🔒 Closed issue [#153](https://github.com/danvergara/dblab/issues/153) in [danvergara/dblab](https://github.com/danvergara/dblab)
+1. 🎉 Merged PR [#3](https://github.com/danvergara/nostream_quadlet/pull/3) in [danvergara/nostream_quadlet](https://github.com/danvergara/nostream_quadlet)
+2. 💪 Opened PR [#3](https://github.com/danvergara/nostream_quadlet/pull/3) in [danvergara/nostream_quadlet](https://github.com/danvergara/nostream_quadlet)
+3. 🎉 Merged PR [#2](https://github.com/danvergara/nostream_quadlet/pull/2) in [danvergara/nostream_quadlet](https://github.com/danvergara/nostream_quadlet)
+4. 💪 Opened PR [#2](https://github.com/danvergara/nostream_quadlet/pull/2) in [danvergara/nostream_quadlet](https://github.com/danvergara/nostream_quadlet)
+5. 🎉 Merged PR [#1](https://github.com/danvergara/nostream_quadlet/pull/1) in [danvergara/nostream_quadlet](https://github.com/danvergara/nostream_quadlet)
 <!--END_SECTION:activity-->
