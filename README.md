@@ -61,9 +61,9 @@ I'm backend developer :robot:. Organizer at [GophersMX](https://t.me/golangmx). 
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [v0.21.0-rc1](https://github.com/danvergara/dblab/releases/tag/v0.21.0-rc1) in [danvergara/dblab](https://github.com/danvergara/dblab)
-2. 🎉 Merged PR [#178](https://github.com/danvergara/dblab/pull/178) in [danvergara/dblab](https://github.com/danvergara/dblab)
-3. 🎉 Merged PR [#11](https://github.com/danvergara/nostream_quadlet/pull/11) in [danvergara/nostream_quadlet](https://github.com/danvergara/nostream_quadlet)
-4. 💪 Opened PR [#11](https://github.com/danvergara/nostream_quadlet/pull/11) in [danvergara/nostream_quadlet](https://github.com/danvergara/nostream_quadlet)
-5. 💪 Opened PR [#178](https://github.com/danvergara/dblab/pull/178) in [danvergara/dblab](https://github.com/danvergara/dblab)
+1. 💪 Opened PR [#179](https://github.com/danvergara/dblab/pull/179) in [danvergara/dblab](https://github.com/danvergara/dblab)
+2. 🚀 Published release [v0.21.0-rc1](https://github.com/danvergara/dblab/releases/tag/v0.21.0-rc1) in [danvergara/dblab](https://github.com/danvergara/dblab)
+3. 🎉 Merged PR [#178](https://github.com/danvergara/dblab/pull/178) in [danvergara/dblab](https://github.com/danvergara/dblab)
+4. 🎉 Merged PR [#11](https://github.com/danvergara/nostream_quadlet/pull/11) in [danvergara/nostream_quadlet](https://github.com/danvergara/nostream_quadlet)
+5. 💪 Opened PR [#11](https://github.com/danvergara/nostream_quadlet/pull/11) in [danvergara/nostream_quadlet](https://github.com/danvergara/nostream_quadlet)
 <!--END_SECTION:activity-->
