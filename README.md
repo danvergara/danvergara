@@ -61,9 +61,9 @@ I'm backend developer :robot:. Organizer at [GophersMX](https://t.me/golangmx). 
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2](https://github.com/Arturomtz8/github-inspector/pull/2#issuecomment-1686720316) in [Arturomtz8/github-inspector](https://github.com/Arturomtz8/github-inspector)
-2. 🎉 Merged PR [#183](https://github.com/danvergara/dblab/pull/183) in [danvergara/dblab](https://github.com/danvergara/dblab)
-3. 🎉 Merged PR [#185](https://github.com/danvergara/dblab/pull/185) in [danvergara/dblab](https://github.com/danvergara/dblab)
-4. 💪 Opened PR [#185](https://github.com/danvergara/dblab/pull/185) in [danvergara/dblab](https://github.com/danvergara/dblab)
-5. 💪 Opened PR [#1](https://github.com/Arturomtz8/github-inspector/pull/1) in [Arturomtz8/github-inspector](https://github.com/Arturomtz8/github-inspector)
+1. 💪 Opened PR [#3](https://github.com/Arturomtz8/github-inspector/pull/3) in [Arturomtz8/github-inspector](https://github.com/Arturomtz8/github-inspector)
+2. 🗣 Commented on [#2](https://github.com/Arturomtz8/github-inspector/pull/2#issuecomment-1686720316) in [Arturomtz8/github-inspector](https://github.com/Arturomtz8/github-inspector)
+3. 🎉 Merged PR [#183](https://github.com/danvergara/dblab/pull/183) in [danvergara/dblab](https://github.com/danvergara/dblab)
+4. 🎉 Merged PR [#185](https://github.com/danvergara/dblab/pull/185) in [danvergara/dblab](https://github.com/danvergara/dblab)
+5. 💪 Opened PR [#185](https://github.com/danvergara/dblab/pull/185) in [danvergara/dblab](https://github.com/danvergara/dblab)
 <!--END_SECTION:activity-->
