@@ -61,9 +61,9 @@ I'm backend developer :robot:. Organizer at [GophersMX](https://t.me/golangmx). 
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#8](https://github.com/Arturomtz8/github-inspector/pull/8) in [Arturomtz8/github-inspector](https://github.com/Arturomtz8/github-inspector)
-2. ❌ Closed PR [#7](https://github.com/Arturomtz8/github-inspector/pull/7) in [Arturomtz8/github-inspector](https://github.com/Arturomtz8/github-inspector)
-3. 💪 Opened PR [#7](https://github.com/Arturomtz8/github-inspector/pull/7) in [Arturomtz8/github-inspector](https://github.com/Arturomtz8/github-inspector)
-4. 💪 Opened PR [#6](https://github.com/Arturomtz8/github-inspector/pull/6) in [Arturomtz8/github-inspector](https://github.com/Arturomtz8/github-inspector)
-5. 💪 Opened PR [#5](https://github.com/Arturomtz8/github-inspector/pull/5) in [Arturomtz8/github-inspector](https://github.com/Arturomtz8/github-inspector)
+1. 🎉 Merged PR [#8](https://github.com/Arturomtz8/github-inspector/pull/8) in [Arturomtz8/github-inspector](https://github.com/Arturomtz8/github-inspector)
+2. 💪 Opened PR [#8](https://github.com/Arturomtz8/github-inspector/pull/8) in [Arturomtz8/github-inspector](https://github.com/Arturomtz8/github-inspector)
+3. ❌ Closed PR [#7](https://github.com/Arturomtz8/github-inspector/pull/7) in [Arturomtz8/github-inspector](https://github.com/Arturomtz8/github-inspector)
+4. 💪 Opened PR [#7](https://github.com/Arturomtz8/github-inspector/pull/7) in [Arturomtz8/github-inspector](https://github.com/Arturomtz8/github-inspector)
+5. 💪 Opened PR [#6](https://github.com/Arturomtz8/github-inspector/pull/6) in [Arturomtz8/github-inspector](https://github.com/Arturomtz8/github-inspector)
 <!--END_SECTION:activity-->
