@@ -16,6 +16,12 @@ I'm backend developer :robot:. Organizer at [GophersMX](https://t.me/golangmx). 
 # Experience:
 
 * **BACKEND DEVELOPER**
+    (Raincoat | OCT 2022 - )
+    * Working on maintaining Go and Python microservices running on top of k8s clusters.--
+    * Maintaining a couple ETLS to process client's data asynchronously.
+    * Stack: Go, Python, Kubernetes, gRPC, Helm, PostgreSQL, Redis, MongoDB, Nats.
+
+* **BACKEND DEVELOPER**
     (Ardan Labs | MAR 2021 - AUG 2022 )
     * Worked on maintaining Go microservices running on top of k8s clusters.
     * Led the transition from Python (Falcon) to Go (goswagger - sqlx - gRPC - Redis).
