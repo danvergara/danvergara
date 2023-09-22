@@ -67,9 +67,9 @@ I'm backend developer :robot:. Organizer at [GophersMX](https://t.me/golangmx). 
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#4](https://github.com/Arturomtz8/github-inspector-telegram/pull/4) in [Arturomtz8/github-inspector-telegram](https://github.com/Arturomtz8/github-inspector-telegram)
-2. 💪 Opened PR [#3](https://github.com/Arturomtz8/github-inspector-telegram/pull/3) in [Arturomtz8/github-inspector-telegram](https://github.com/Arturomtz8/github-inspector-telegram)
-3. 💪 Opened PR [#2](https://github.com/Arturomtz8/github-inspector-telegram/pull/2) in [Arturomtz8/github-inspector-telegram](https://github.com/Arturomtz8/github-inspector-telegram)
-4. ❌ Closed PR [#1](https://github.com/avestruz-nost-rdev/avestruz_nostream_infra/pull/1) in [avestruz-nost-rdev/avestruz_nostream_infra](https://github.com/avestruz-nost-rdev/avestruz_nostream_infra)
-5. 💪 Opened PR [#14](https://github.com/Arturomtz8/github-inspector/pull/14) in [Arturomtz8/github-inspector](https://github.com/Arturomtz8/github-inspector)
+1. 💪 Opened PR [#15](https://github.com/Arturomtz8/github-inspector/pull/15) in [Arturomtz8/github-inspector](https://github.com/Arturomtz8/github-inspector)
+2. 💪 Opened PR [#4](https://github.com/Arturomtz8/github-inspector-telegram/pull/4) in [Arturomtz8/github-inspector-telegram](https://github.com/Arturomtz8/github-inspector-telegram)
+3. 💪 Opened PR [#3](https://github.com/Arturomtz8/github-inspector-telegram/pull/3) in [Arturomtz8/github-inspector-telegram](https://github.com/Arturomtz8/github-inspector-telegram)
+4. 💪 Opened PR [#2](https://github.com/Arturomtz8/github-inspector-telegram/pull/2) in [Arturomtz8/github-inspector-telegram](https://github.com/Arturomtz8/github-inspector-telegram)
+5. ❌ Closed PR [#1](https://github.com/avestruz-nost-rdev/avestruz_nostream_infra/pull/1) in [avestruz-nost-rdev/avestruz_nostream_infra](https://github.com/avestruz-nost-rdev/avestruz_nostream_infra)
 <!--END_SECTION:activity-->
