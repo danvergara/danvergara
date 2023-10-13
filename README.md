@@ -67,9 +67,9 @@ I'm backend developer :robot:. Organizer at [GophersMX](https://t.me/golangmx). 
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#3](https://github.com/danvergara/morphos/pull/3) in [danvergara/morphos](https://github.com/danvergara/morphos)
-2. 🎉 Merged PR [#2](https://github.com/danvergara/morphos/pull/2) in [danvergara/morphos](https://github.com/danvergara/morphos)
-3. 💪 Opened PR [#2](https://github.com/danvergara/morphos/pull/2) in [danvergara/morphos](https://github.com/danvergara/morphos)
-4. 🎉 Merged PR [#1](https://github.com/danvergara/morphos/pull/1) in [danvergara/morphos](https://github.com/danvergara/morphos)
-5. 💪 Opened PR [#1](https://github.com/danvergara/morphos/pull/1) in [danvergara/morphos](https://github.com/danvergara/morphos)
+1. 🎉 Merged PR [#3](https://github.com/danvergara/morphos/pull/3) in [danvergara/morphos](https://github.com/danvergara/morphos)
+2. 💪 Opened PR [#3](https://github.com/danvergara/morphos/pull/3) in [danvergara/morphos](https://github.com/danvergara/morphos)
+3. 🎉 Merged PR [#2](https://github.com/danvergara/morphos/pull/2) in [danvergara/morphos](https://github.com/danvergara/morphos)
+4. 💪 Opened PR [#2](https://github.com/danvergara/morphos/pull/2) in [danvergara/morphos](https://github.com/danvergara/morphos)
+5. 🎉 Merged PR [#1](https://github.com/danvergara/morphos/pull/1) in [danvergara/morphos](https://github.com/danvergara/morphos)
 <!--END_SECTION:activity-->
