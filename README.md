@@ -4,7 +4,6 @@ I'm backend developer :robot:. Organizer at [GophersMX](https://t.me/golangmx). 
 
 📫 How to reach me:
 
-[![Connect on LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniel-omar-vergara-pérez-2b5471159)
 [![email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](daniel.omar.vergara@gmail.com)
 
 ### :fire: My Stats :
