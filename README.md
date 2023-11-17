@@ -64,9 +64,9 @@ I'm backend developer :robot:. Organizer at [GophersMX](https://t.me/golangmx). 
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#11](https://github.com/danvergara/morphos/pull/11) in [danvergara/morphos](https://github.com/danvergara/morphos)
-2. 🎉 Merged PR [#3](https://github.com/danvergara/joplin/pull/3) in [danvergara/joplin](https://github.com/danvergara/joplin)
-3. 💪 Opened PR [#3](https://github.com/danvergara/joplin/pull/3) in [danvergara/joplin](https://github.com/danvergara/joplin)
-4. 🎉 Merged PR [#15](https://github.com/danvergara/nostream_quadlet/pull/15) in [danvergara/nostream_quadlet](https://github.com/danvergara/nostream_quadlet)
-5. 💪 Opened PR [#15](https://github.com/danvergara/nostream_quadlet/pull/15) in [danvergara/nostream_quadlet](https://github.com/danvergara/nostream_quadlet)
+1. 🎉 Merged PR [#11](https://github.com/danvergara/morphos/pull/11) in [danvergara/morphos](https://github.com/danvergara/morphos)
+2. 💪 Opened PR [#11](https://github.com/danvergara/morphos/pull/11) in [danvergara/morphos](https://github.com/danvergara/morphos)
+3. 🎉 Merged PR [#3](https://github.com/danvergara/joplin/pull/3) in [danvergara/joplin](https://github.com/danvergara/joplin)
+4. 💪 Opened PR [#3](https://github.com/danvergara/joplin/pull/3) in [danvergara/joplin](https://github.com/danvergara/joplin)
+5. 🎉 Merged PR [#15](https://github.com/danvergara/nostream_quadlet/pull/15) in [danvergara/nostream_quadlet](https://github.com/danvergara/nostream_quadlet)
 <!--END_SECTION:activity-->
