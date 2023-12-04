@@ -64,9 +64,9 @@ I'm backend developer :robot:. Organizer at [GophersMX](https://t.me/golangmx). 
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#19](https://github.com/danvergara/morphos/pull/19) in [danvergara/morphos](https://github.com/danvergara/morphos)
-2. 🗣 Commented on [#1931](https://github.com/testcontainers/testcontainers-go/pull/1931#issuecomment-1832378325) in [testcontainers/testcontainers-go](https://github.com/testcontainers/testcontainers-go)
-3. 🗣 Commented on [#1931](https://github.com/testcontainers/testcontainers-go/pull/1931#issuecomment-1832298203) in [testcontainers/testcontainers-go](https://github.com/testcontainers/testcontainers-go)
-4. 💪 Opened PR [#920](https://github.com/commitizen-tools/commitizen/pull/920) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
-5. ❗ Opened issue [#1926](https://github.com/testcontainers/testcontainers-go/issues/1926) in [testcontainers/testcontainers-go](https://github.com/testcontainers/testcontainers-go)
+1. 🗣 Commented on [#920](https://github.com/commitizen-tools/commitizen/pull/920#issuecomment-1839031622) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
+2. 💪 Opened PR [#19](https://github.com/danvergara/morphos/pull/19) in [danvergara/morphos](https://github.com/danvergara/morphos)
+3. 🗣 Commented on [#1931](https://github.com/testcontainers/testcontainers-go/pull/1931#issuecomment-1832378325) in [testcontainers/testcontainers-go](https://github.com/testcontainers/testcontainers-go)
+4. 🗣 Commented on [#1931](https://github.com/testcontainers/testcontainers-go/pull/1931#issuecomment-1832298203) in [testcontainers/testcontainers-go](https://github.com/testcontainers/testcontainers-go)
+5. 💪 Opened PR [#920](https://github.com/commitizen-tools/commitizen/pull/920) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
 <!--END_SECTION:activity-->
