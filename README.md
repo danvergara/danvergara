@@ -64,9 +64,9 @@ I'm backend developer :robot:. Organizer at [GophersMX](https://t.me/golangmx). 
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#30](https://github.com/danvergara/morphos/pull/30) in [danvergara/morphos](https://github.com/danvergara/morphos)
-2. 💪 Opened PR [#29](https://github.com/danvergara/morphos/pull/29) in [danvergara/morphos](https://github.com/danvergara/morphos)
-3. ❗ Opened issue [#988](https://github.com/connectrpc/connect-es/issues/988) in [connectrpc/connect-es](https://github.com/connectrpc/connect-es)
-4. 🗣 Commented on [#543](https://github.com/unidoc/unipdf/issues/543#issuecomment-1902662830) in [unidoc/unipdf](https://github.com/unidoc/unipdf)
-5. 🔒 Closed issue [#543](https://github.com/unidoc/unipdf/issues/543) in [unidoc/unipdf](https://github.com/unidoc/unipdf)
+1. 🎉 Merged PR [#29](https://github.com/danvergara/morphos/pull/29) in [danvergara/morphos](https://github.com/danvergara/morphos)
+2. 💪 Opened PR [#30](https://github.com/danvergara/morphos/pull/30) in [danvergara/morphos](https://github.com/danvergara/morphos)
+3. 💪 Opened PR [#29](https://github.com/danvergara/morphos/pull/29) in [danvergara/morphos](https://github.com/danvergara/morphos)
+4. ❗ Opened issue [#988](https://github.com/connectrpc/connect-es/issues/988) in [connectrpc/connect-es](https://github.com/connectrpc/connect-es)
+5. 🗣 Commented on [#543](https://github.com/unidoc/unipdf/issues/543#issuecomment-1902662830) in [unidoc/unipdf](https://github.com/unidoc/unipdf)
 <!--END_SECTION:activity-->
