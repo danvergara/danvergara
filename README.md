@@ -64,9 +64,9 @@ I'm backend developer :robot:. Organizer at [GophersMX](https://t.me/golangmx). 
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#543](https://github.com/unidoc/unipdf/issues/543#issuecomment-1902662830) in [unidoc/unipdf](https://github.com/unidoc/unipdf)
-2. 🔒 Closed issue [#543](https://github.com/unidoc/unipdf/issues/543) in [unidoc/unipdf](https://github.com/unidoc/unipdf)
-3. ❗ Opened issue [#543](https://github.com/unidoc/unipdf/issues/543) in [unidoc/unipdf](https://github.com/unidoc/unipdf)
-4. 💪 Opened PR [#28](https://github.com/danvergara/morphos/pull/28) in [danvergara/morphos](https://github.com/danvergara/morphos)
-5. 🎉 Merged PR [#27](https://github.com/danvergara/morphos/pull/27) in [danvergara/morphos](https://github.com/danvergara/morphos)
+1. ❗ Opened issue [#988](https://github.com/connectrpc/connect-es/issues/988) in [connectrpc/connect-es](https://github.com/connectrpc/connect-es)
+2. 🗣 Commented on [#543](https://github.com/unidoc/unipdf/issues/543#issuecomment-1902662830) in [unidoc/unipdf](https://github.com/unidoc/unipdf)
+3. 🔒 Closed issue [#543](https://github.com/unidoc/unipdf/issues/543) in [unidoc/unipdf](https://github.com/unidoc/unipdf)
+4. ❗ Opened issue [#543](https://github.com/unidoc/unipdf/issues/543) in [unidoc/unipdf](https://github.com/unidoc/unipdf)
+5. 💪 Opened PR [#28](https://github.com/danvergara/morphos/pull/28) in [danvergara/morphos](https://github.com/danvergara/morphos)
 <!--END_SECTION:activity-->
