@@ -64,9 +64,9 @@ I'm backend developer :robot:. Organizer at [GophersMX](https://t.me/golangmx). 
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#988](https://github.com/connectrpc/connect-es/issues/988#issuecomment-1969860247) in [connectrpc/connect-es](https://github.com/connectrpc/connect-es)
-2. 🗣 Commented on [#2203](https://github.com/testcontainers/testcontainers-go/issues/2203#issuecomment-1969300502) in [testcontainers/testcontainers-go](https://github.com/testcontainers/testcontainers-go)
-3. 🗣 Commented on [#988](https://github.com/connectrpc/connect-es/issues/988#issuecomment-1966626774) in [connectrpc/connect-es](https://github.com/connectrpc/connect-es)
-4. 🗣 Commented on [#988](https://github.com/connectrpc/connect-es/issues/988#issuecomment-1965242234) in [connectrpc/connect-es](https://github.com/connectrpc/connect-es)
-5. 🗣 Commented on [#2203](https://github.com/testcontainers/testcontainers-go/issues/2203#issuecomment-1962777355) in [testcontainers/testcontainers-go](https://github.com/testcontainers/testcontainers-go)
+1. 💪 Opened PR [#2272](https://github.com/testcontainers/testcontainers-go/pull/2272) in [testcontainers/testcontainers-go](https://github.com/testcontainers/testcontainers-go)
+2. 🗣 Commented on [#988](https://github.com/connectrpc/connect-es/issues/988#issuecomment-1969860247) in [connectrpc/connect-es](https://github.com/connectrpc/connect-es)
+3. 🗣 Commented on [#2203](https://github.com/testcontainers/testcontainers-go/issues/2203#issuecomment-1969300502) in [testcontainers/testcontainers-go](https://github.com/testcontainers/testcontainers-go)
+4. 🗣 Commented on [#988](https://github.com/connectrpc/connect-es/issues/988#issuecomment-1966626774) in [connectrpc/connect-es](https://github.com/connectrpc/connect-es)
+5. 🗣 Commented on [#988](https://github.com/connectrpc/connect-es/issues/988#issuecomment-1965242234) in [connectrpc/connect-es](https://github.com/connectrpc/connect-es)
 <!--END_SECTION:activity-->
