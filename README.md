@@ -64,9 +64,9 @@ I'm backend developer :robot:. Organizer at [GophersMX](https://t.me/golangmx). 
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1020](https://github.com/getumbrel/umbrel-apps/pull/1020#issuecomment-2089574204) in [getumbrel/umbrel-apps](https://github.com/getumbrel/umbrel-apps)
-2. 🎉 Merged PR [#197](https://github.com/danvergara/dblab/pull/197) in [danvergara/dblab](https://github.com/danvergara/dblab)
-3. 🗣 Commented on [#1020](https://github.com/getumbrel/umbrel-apps/pull/1020#issuecomment-2073897917) in [getumbrel/umbrel-apps](https://github.com/getumbrel/umbrel-apps)
-4. 🗣 Commented on [#47](https://github.com/danvergara/morphos/pull/47#issuecomment-2066715858) in [danvergara/morphos](https://github.com/danvergara/morphos)
-5. 🎉 Merged PR [#49](https://github.com/danvergara/morphos/pull/49) in [danvergara/morphos](https://github.com/danvergara/morphos)
+1. 🎉 Merged PR [#4](https://github.com/danvergara/joplin/pull/4) in [danvergara/joplin](https://github.com/danvergara/joplin)
+2. 💪 Opened PR [#4](https://github.com/danvergara/joplin/pull/4) in [danvergara/joplin](https://github.com/danvergara/joplin)
+3. 🗣 Commented on [#1020](https://github.com/getumbrel/umbrel-apps/pull/1020#issuecomment-2089574204) in [getumbrel/umbrel-apps](https://github.com/getumbrel/umbrel-apps)
+4. 🎉 Merged PR [#197](https://github.com/danvergara/dblab/pull/197) in [danvergara/dblab](https://github.com/danvergara/dblab)
+5. 🗣 Commented on [#1020](https://github.com/getumbrel/umbrel-apps/pull/1020#issuecomment-2073897917) in [getumbrel/umbrel-apps](https://github.com/getumbrel/umbrel-apps)
 <!--END_SECTION:activity-->
