@@ -64,9 +64,9 @@ I'm backend developer :robot:. Organizer at [GophersMX](https://t.me/golangmx). 
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#206](https://github.com/danvergara/dblab/pull/206) in [danvergara/dblab](https://github.com/danvergara/dblab)
-2. 🗣 Commented on [#204](https://github.com/danvergara/dblab/issues/204#issuecomment-2155147664) in [danvergara/dblab](https://github.com/danvergara/dblab)
-3. 🗣 Commented on [#51](https://github.com/danvergara/morphos/issues/51#issuecomment-2155141061) in [danvergara/morphos](https://github.com/danvergara/morphos)
-4. 🗣 Commented on [#51](https://github.com/danvergara/morphos/issues/51#issuecomment-2153157029) in [danvergara/morphos](https://github.com/danvergara/morphos)
-5. 🗣 Commented on [#110](https://github.com/danvergara/dblab/issues/110#issuecomment-2153076414) in [danvergara/dblab](https://github.com/danvergara/dblab)
+1. 🗣 Commented on [#205](https://github.com/danvergara/dblab/issues/205#issuecomment-2155276262) in [danvergara/dblab](https://github.com/danvergara/dblab)
+2. 🎉 Merged PR [#206](https://github.com/danvergara/dblab/pull/206) in [danvergara/dblab](https://github.com/danvergara/dblab)
+3. 🗣 Commented on [#204](https://github.com/danvergara/dblab/issues/204#issuecomment-2155147664) in [danvergara/dblab](https://github.com/danvergara/dblab)
+4. 🗣 Commented on [#51](https://github.com/danvergara/morphos/issues/51#issuecomment-2155141061) in [danvergara/morphos](https://github.com/danvergara/morphos)
+5. 🗣 Commented on [#51](https://github.com/danvergara/morphos/issues/51#issuecomment-2153157029) in [danvergara/morphos](https://github.com/danvergara/morphos)
 <!--END_SECTION:activity-->
