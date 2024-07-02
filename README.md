@@ -64,9 +64,9 @@ I'm backend developer :robot:. Organizer at [GophersMX](https://t.me/golangmx). 
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#188](https://github.com/danvergara/dblab/issues/188) in [danvergara/dblab](https://github.com/danvergara/dblab)
-2. 🎉 Merged PR [#222](https://github.com/danvergara/dblab/pull/222) in [danvergara/dblab](https://github.com/danvergara/dblab)
-3. 🔒 Closed issue [#204](https://github.com/danvergara/dblab/issues/204) in [danvergara/dblab](https://github.com/danvergara/dblab)
-4. 🎉 Merged PR [#216](https://github.com/danvergara/dblab/pull/216) in [danvergara/dblab](https://github.com/danvergara/dblab)
-5. 🗣 Commented on [#188](https://github.com/danvergara/dblab/issues/188#issuecomment-2190540239) in [danvergara/dblab](https://github.com/danvergara/dblab)
+1. 🚀 Published release [v0.25.0](https://github.com/danvergara/dblab/releases/tag/v0.25.0) in [danvergara/dblab](https://github.com/danvergara/dblab)
+2. 🎉 Merged PR [#224](https://github.com/danvergara/dblab/pull/224) in [danvergara/dblab](https://github.com/danvergara/dblab)
+3. 💪 Opened PR [#224](https://github.com/danvergara/dblab/pull/224) in [danvergara/dblab](https://github.com/danvergara/dblab)
+4. 🔒 Closed issue [#188](https://github.com/danvergara/dblab/issues/188) in [danvergara/dblab](https://github.com/danvergara/dblab)
+5. 🎉 Merged PR [#222](https://github.com/danvergara/dblab/pull/222) in [danvergara/dblab](https://github.com/danvergara/dblab)
 <!--END_SECTION:activity-->
