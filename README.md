@@ -64,9 +64,9 @@ I'm backend developer :robot:. Organizer at [GophersMX](https://t.me/golangmx). 
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#114](https://github.com/gen2brain/go-fitz/issues/114) in [gen2brain/go-fitz](https://github.com/gen2brain/go-fitz)
-2. 🗣 Commented on [#12166](https://github.com/ziglang/zig/issues/12166#issuecomment-2298937729) in [ziglang/zig](https://github.com/ziglang/zig)
-3. 🚀 Published release [v0.26.0](https://github.com/danvergara/dblab/releases/tag/v0.26.0) in [danvergara/dblab](https://github.com/danvergara/dblab)
-4. 🎉 Merged PR [#231](https://github.com/danvergara/dblab/pull/231) in [danvergara/dblab](https://github.com/danvergara/dblab)
-5. 💪 Opened PR [#231](https://github.com/danvergara/dblab/pull/231) in [danvergara/dblab](https://github.com/danvergara/dblab)
+1. 💪 Opened PR [#62](https://github.com/danvergara/morphos/pull/62) in [danvergara/morphos](https://github.com/danvergara/morphos)
+2. ❗ Opened issue [#114](https://github.com/gen2brain/go-fitz/issues/114) in [gen2brain/go-fitz](https://github.com/gen2brain/go-fitz)
+3. 🗣 Commented on [#12166](https://github.com/ziglang/zig/issues/12166#issuecomment-2298937729) in [ziglang/zig](https://github.com/ziglang/zig)
+4. 🚀 Published release [v0.26.0](https://github.com/danvergara/dblab/releases/tag/v0.26.0) in [danvergara/dblab](https://github.com/danvergara/dblab)
+5. 🎉 Merged PR [#231](https://github.com/danvergara/dblab/pull/231) in [danvergara/dblab](https://github.com/danvergara/dblab)
 <!--END_SECTION:activity-->
