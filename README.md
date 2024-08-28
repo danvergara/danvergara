@@ -64,9 +64,9 @@ I'm backend developer :robot:. Organizer at [GophersMX](https://t.me/golangmx). 
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#62](https://github.com/danvergara/morphos/pull/62) in [danvergara/morphos](https://github.com/danvergara/morphos)
-2. 💪 Opened PR [#62](https://github.com/danvergara/morphos/pull/62) in [danvergara/morphos](https://github.com/danvergara/morphos)
-3. ❗ Opened issue [#114](https://github.com/gen2brain/go-fitz/issues/114) in [gen2brain/go-fitz](https://github.com/gen2brain/go-fitz)
-4. 🗣 Commented on [#12166](https://github.com/ziglang/zig/issues/12166#issuecomment-2298937729) in [ziglang/zig](https://github.com/ziglang/zig)
-5. 🚀 Published release [v0.26.0](https://github.com/danvergara/dblab/releases/tag/v0.26.0) in [danvergara/dblab](https://github.com/danvergara/dblab)
+1. 💪 Opened PR [#63](https://github.com/danvergara/morphos/pull/63) in [danvergara/morphos](https://github.com/danvergara/morphos)
+2. 🎉 Merged PR [#62](https://github.com/danvergara/morphos/pull/62) in [danvergara/morphos](https://github.com/danvergara/morphos)
+3. 💪 Opened PR [#62](https://github.com/danvergara/morphos/pull/62) in [danvergara/morphos](https://github.com/danvergara/morphos)
+4. ❗ Opened issue [#114](https://github.com/gen2brain/go-fitz/issues/114) in [gen2brain/go-fitz](https://github.com/gen2brain/go-fitz)
+5. 🗣 Commented on [#12166](https://github.com/ziglang/zig/issues/12166#issuecomment-2298937729) in [ziglang/zig](https://github.com/ziglang/zig)
 <!--END_SECTION:activity-->
