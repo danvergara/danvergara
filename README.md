@@ -64,9 +64,9 @@ I'm backend developer :robot:. Organizer at [GophersMX](https://t.me/golangmx). 
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#63](https://github.com/danvergara/morphos/pull/63#issuecomment-2330595476) in [danvergara/morphos](https://github.com/danvergara/morphos)
-2. 💪 Opened PR [#63](https://github.com/danvergara/morphos/pull/63) in [danvergara/morphos](https://github.com/danvergara/morphos)
-3. 🎉 Merged PR [#62](https://github.com/danvergara/morphos/pull/62) in [danvergara/morphos](https://github.com/danvergara/morphos)
-4. 💪 Opened PR [#62](https://github.com/danvergara/morphos/pull/62) in [danvergara/morphos](https://github.com/danvergara/morphos)
-5. ❗ Opened issue [#114](https://github.com/gen2brain/go-fitz/issues/114) in [gen2brain/go-fitz](https://github.com/gen2brain/go-fitz)
+1. 🔒 Closed issue [#60](https://github.com/danvergara/morphos/issues/60) in [danvergara/morphos](https://github.com/danvergara/morphos)
+2. 🎉 Merged PR [#63](https://github.com/danvergara/morphos/pull/63) in [danvergara/morphos](https://github.com/danvergara/morphos)
+3. 🗣 Commented on [#63](https://github.com/danvergara/morphos/pull/63#issuecomment-2330595476) in [danvergara/morphos](https://github.com/danvergara/morphos)
+4. 💪 Opened PR [#63](https://github.com/danvergara/morphos/pull/63) in [danvergara/morphos](https://github.com/danvergara/morphos)
+5. 🎉 Merged PR [#62](https://github.com/danvergara/morphos/pull/62) in [danvergara/morphos](https://github.com/danvergara/morphos)
 <!--END_SECTION:activity-->
