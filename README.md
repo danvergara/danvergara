@@ -64,9 +64,9 @@ I'm backend developer :robot:. Organizer at [GophersMX](https://t.me/golangmx). 
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#234](https://github.com/danvergara/dblab/issues/234) in [danvergara/dblab](https://github.com/danvergara/dblab)
-2. 💪 Opened PR [#1509](https://github.com/getumbrel/umbrel-apps/pull/1509) in [getumbrel/umbrel-apps](https://github.com/getumbrel/umbrel-apps)
-3. 🔒 Closed issue [#50](https://github.com/danvergara/morphos/issues/50) in [danvergara/morphos](https://github.com/danvergara/morphos)
-4. 🔒 Closed issue [#61](https://github.com/danvergara/morphos/issues/61) in [danvergara/morphos](https://github.com/danvergara/morphos)
-5. 🔒 Closed issue [#59](https://github.com/danvergara/morphos/issues/59) in [danvergara/morphos](https://github.com/danvergara/morphos)
+1. 💪 Opened PR [#236](https://github.com/danvergara/dblab/pull/236) in [danvergara/dblab](https://github.com/danvergara/dblab)
+2. 🔒 Closed issue [#234](https://github.com/danvergara/dblab/issues/234) in [danvergara/dblab](https://github.com/danvergara/dblab)
+3. 💪 Opened PR [#1509](https://github.com/getumbrel/umbrel-apps/pull/1509) in [getumbrel/umbrel-apps](https://github.com/getumbrel/umbrel-apps)
+4. 🔒 Closed issue [#50](https://github.com/danvergara/morphos/issues/50) in [danvergara/morphos](https://github.com/danvergara/morphos)
+5. 🔒 Closed issue [#61](https://github.com/danvergara/morphos/issues/61) in [danvergara/morphos](https://github.com/danvergara/morphos)
 <!--END_SECTION:activity-->
