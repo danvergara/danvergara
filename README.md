@@ -64,9 +64,9 @@ I'm backend developer :robot:. Organizer at [GophersMX](https://t.me/golangmx). 
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#205](https://github.com/danvergara/dblab/issues/205#issuecomment-2574376340) in [danvergara/dblab](https://github.com/danvergara/dblab)
-2. 🚀 Published release [v0.30.1](https://github.com/danvergara/dblab/releases/tag/v0.30.1) in [danvergara/dblab](https://github.com/danvergara/dblab)
-3. 🔒 Closed issue [#205](https://github.com/danvergara/dblab/issues/205) in [danvergara/dblab](https://github.com/danvergara/dblab)
-4. 🎉 Merged PR [#249](https://github.com/danvergara/dblab/pull/249) in [danvergara/dblab](https://github.com/danvergara/dblab)
-5. 🗣 Commented on [#205](https://github.com/danvergara/dblab/issues/205#issuecomment-2574132871) in [danvergara/dblab](https://github.com/danvergara/dblab)
+1. 🔒 Closed issue [#2769](https://github.com/go-swagger/go-swagger/issues/2769) in [go-swagger/go-swagger](https://github.com/go-swagger/go-swagger)
+2. 🗣 Commented on [#205](https://github.com/danvergara/dblab/issues/205#issuecomment-2574376340) in [danvergara/dblab](https://github.com/danvergara/dblab)
+3. 🚀 Published release [v0.30.1](https://github.com/danvergara/dblab/releases/tag/v0.30.1) in [danvergara/dblab](https://github.com/danvergara/dblab)
+4. 🔒 Closed issue [#205](https://github.com/danvergara/dblab/issues/205) in [danvergara/dblab](https://github.com/danvergara/dblab)
+5. 🎉 Merged PR [#249](https://github.com/danvergara/dblab/pull/249) in [danvergara/dblab](https://github.com/danvergara/dblab)
 <!--END_SECTION:activity-->
