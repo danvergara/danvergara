@@ -64,9 +64,9 @@ I'm backend developer :robot:. Organizer at [GophersMX](https://t.me/golangmx). 
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#83](https://github.com/danvergara/morphos/issues/83#issuecomment-2587768072) in [danvergara/morphos](https://github.com/danvergara/morphos)
-2. 🔒 Closed issue [#2769](https://github.com/go-swagger/go-swagger/issues/2769) in [go-swagger/go-swagger](https://github.com/go-swagger/go-swagger)
-3. 🗣 Commented on [#205](https://github.com/danvergara/dblab/issues/205#issuecomment-2574376340) in [danvergara/dblab](https://github.com/danvergara/dblab)
-4. 🚀 Published release [v0.30.1](https://github.com/danvergara/dblab/releases/tag/v0.30.1) in [danvergara/dblab](https://github.com/danvergara/dblab)
-5. 🔒 Closed issue [#205](https://github.com/danvergara/dblab/issues/205) in [danvergara/dblab](https://github.com/danvergara/dblab)
+1. ❗ Opened issue [#655](https://github.com/uwdata/mosaic/issues/655) in [uwdata/mosaic](https://github.com/uwdata/mosaic)
+2. 🗣 Commented on [#83](https://github.com/danvergara/morphos/issues/83#issuecomment-2587768072) in [danvergara/morphos](https://github.com/danvergara/morphos)
+3. 🔒 Closed issue [#2769](https://github.com/go-swagger/go-swagger/issues/2769) in [go-swagger/go-swagger](https://github.com/go-swagger/go-swagger)
+4. 🗣 Commented on [#205](https://github.com/danvergara/dblab/issues/205#issuecomment-2574376340) in [danvergara/dblab](https://github.com/danvergara/dblab)
+5. 🚀 Published release [v0.30.1](https://github.com/danvergara/dblab/releases/tag/v0.30.1) in [danvergara/dblab](https://github.com/danvergara/dblab)
 <!--END_SECTION:activity-->
