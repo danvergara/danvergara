@@ -64,9 +64,9 @@ I'm backend developer :robot:. Organizer at [GophersMX](https://t.me/golangmx). 
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#655](https://github.com/uwdata/mosaic/issues/655#issuecomment-2603306866) in [uwdata/mosaic](https://github.com/uwdata/mosaic)
-2. 🔒 Closed issue [#655](https://github.com/uwdata/mosaic/issues/655) in [uwdata/mosaic](https://github.com/uwdata/mosaic)
-3. ❗ Opened issue [#655](https://github.com/uwdata/mosaic/issues/655) in [uwdata/mosaic](https://github.com/uwdata/mosaic)
-4. 🗣 Commented on [#83](https://github.com/danvergara/morphos/issues/83#issuecomment-2587768072) in [danvergara/morphos](https://github.com/danvergara/morphos)
-5. 🔒 Closed issue [#2769](https://github.com/go-swagger/go-swagger/issues/2769) in [go-swagger/go-swagger](https://github.com/go-swagger/go-swagger)
+1. ❗ Opened issue [#658](https://github.com/uwdata/mosaic/issues/658) in [uwdata/mosaic](https://github.com/uwdata/mosaic)
+2. 🗣 Commented on [#655](https://github.com/uwdata/mosaic/issues/655#issuecomment-2603306866) in [uwdata/mosaic](https://github.com/uwdata/mosaic)
+3. 🔒 Closed issue [#655](https://github.com/uwdata/mosaic/issues/655) in [uwdata/mosaic](https://github.com/uwdata/mosaic)
+4. ❗ Opened issue [#655](https://github.com/uwdata/mosaic/issues/655) in [uwdata/mosaic](https://github.com/uwdata/mosaic)
+5. 🗣 Commented on [#83](https://github.com/danvergara/morphos/issues/83#issuecomment-2587768072) in [danvergara/morphos](https://github.com/danvergara/morphos)
 <!--END_SECTION:activity-->
