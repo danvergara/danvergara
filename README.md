@@ -64,9 +64,9 @@ I'm backend developer :robot:. Organizer at [GophersMX](https://t.me/golangmx). 
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#685](https://github.com/bitcoin-dev-project/warnet/pull/685) in [bitcoin-dev-project/warnet](https://github.com/bitcoin-dev-project/warnet)
-2. 🗣 Commented on [#5](https://github.com/TheCharlatan/rust-bitcoinkernel/issues/5#issuecomment-2676435814) in [TheCharlatan/rust-bitcoinkernel](https://github.com/TheCharlatan/rust-bitcoinkernel)
-3. 🗣 Commented on [#5](https://github.com/TheCharlatan/rust-bitcoinkernel/issues/5#issuecomment-2676417196) in [TheCharlatan/rust-bitcoinkernel](https://github.com/TheCharlatan/rust-bitcoinkernel)
-4. 🗣 Commented on [#5](https://github.com/TheCharlatan/rust-bitcoinkernel/issues/5#issuecomment-2676394300) in [TheCharlatan/rust-bitcoinkernel](https://github.com/TheCharlatan/rust-bitcoinkernel)
-5. ❗ Opened issue [#5](https://github.com/TheCharlatan/rust-bitcoinkernel/issues/5) in [TheCharlatan/rust-bitcoinkernel](https://github.com/TheCharlatan/rust-bitcoinkernel)
+1. 💪 Opened PR [#425](https://github.com/citadel-tech/coinswap/pull/425) in [citadel-tech/coinswap](https://github.com/citadel-tech/coinswap)
+2. 💪 Opened PR [#685](https://github.com/bitcoin-dev-project/warnet/pull/685) in [bitcoin-dev-project/warnet](https://github.com/bitcoin-dev-project/warnet)
+3. 🗣 Commented on [#5](https://github.com/TheCharlatan/rust-bitcoinkernel/issues/5#issuecomment-2676435814) in [TheCharlatan/rust-bitcoinkernel](https://github.com/TheCharlatan/rust-bitcoinkernel)
+4. 🗣 Commented on [#5](https://github.com/TheCharlatan/rust-bitcoinkernel/issues/5#issuecomment-2676417196) in [TheCharlatan/rust-bitcoinkernel](https://github.com/TheCharlatan/rust-bitcoinkernel)
+5. 🗣 Commented on [#5](https://github.com/TheCharlatan/rust-bitcoinkernel/issues/5#issuecomment-2676394300) in [TheCharlatan/rust-bitcoinkernel](https://github.com/TheCharlatan/rust-bitcoinkernel)
 <!--END_SECTION:activity-->
