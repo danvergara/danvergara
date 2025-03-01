@@ -64,9 +64,9 @@ I'm backend developer :robot:. Organizer at [GophersMX](https://t.me/golangmx). 
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#226](https://github.com/bitcoin-dev-project/sim-ln/pull/226) in [bitcoin-dev-project/sim-ln](https://github.com/bitcoin-dev-project/sim-ln)
-2. 🔒 Closed issue [#5](https://github.com/TheCharlatan/rust-bitcoinkernel/issues/5) in [TheCharlatan/rust-bitcoinkernel](https://github.com/TheCharlatan/rust-bitcoinkernel)
-3. ❌ Closed PR [#47](https://github.com/lightningdevkit/ldk-server/pull/47) in [lightningdevkit/ldk-server](https://github.com/lightningdevkit/ldk-server)
-4. 💪 Opened PR [#432](https://github.com/citadel-tech/coinswap/pull/432) in [citadel-tech/coinswap](https://github.com/citadel-tech/coinswap)
-5. 💪 Opened PR [#47](https://github.com/lightningdevkit/ldk-server/pull/47) in [lightningdevkit/ldk-server](https://github.com/lightningdevkit/ldk-server)
+1. 🗣 Commented on [#427](https://github.com/citadel-tech/coinswap/issues/427#issuecomment-2692383488) in [citadel-tech/coinswap](https://github.com/citadel-tech/coinswap)
+2. ❌ Closed PR [#226](https://github.com/bitcoin-dev-project/sim-ln/pull/226) in [bitcoin-dev-project/sim-ln](https://github.com/bitcoin-dev-project/sim-ln)
+3. 🔒 Closed issue [#5](https://github.com/TheCharlatan/rust-bitcoinkernel/issues/5) in [TheCharlatan/rust-bitcoinkernel](https://github.com/TheCharlatan/rust-bitcoinkernel)
+4. ❌ Closed PR [#47](https://github.com/lightningdevkit/ldk-server/pull/47) in [lightningdevkit/ldk-server](https://github.com/lightningdevkit/ldk-server)
+5. 💪 Opened PR [#432](https://github.com/citadel-tech/coinswap/pull/432) in [citadel-tech/coinswap](https://github.com/citadel-tech/coinswap)
 <!--END_SECTION:activity-->
