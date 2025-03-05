@@ -64,9 +64,9 @@ I'm backend developer :robot:. Organizer at [GophersMX](https://t.me/golangmx). 
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#382](https://github.com/citadel-tech/coinswap/issues/382#issuecomment-2699464790) in [citadel-tech/coinswap](https://github.com/citadel-tech/coinswap)
-2. 🗣 Commented on [#382](https://github.com/citadel-tech/coinswap/issues/382#issuecomment-2699459078) in [citadel-tech/coinswap](https://github.com/citadel-tech/coinswap)
-3. 🗣 Commented on [#427](https://github.com/citadel-tech/coinswap/issues/427#issuecomment-2695351459) in [citadel-tech/coinswap](https://github.com/citadel-tech/coinswap)
-4. 🗣 Commented on [#427](https://github.com/citadel-tech/coinswap/issues/427#issuecomment-2692864609) in [citadel-tech/coinswap](https://github.com/citadel-tech/coinswap)
-5. 🗣 Commented on [#427](https://github.com/citadel-tech/coinswap/issues/427#issuecomment-2692383488) in [citadel-tech/coinswap](https://github.com/citadel-tech/coinswap)
+1. 🗣 Commented on [#432](https://github.com/citadel-tech/coinswap/pull/432#issuecomment-2701740792) in [citadel-tech/coinswap](https://github.com/citadel-tech/coinswap)
+2. 🗣 Commented on [#382](https://github.com/citadel-tech/coinswap/issues/382#issuecomment-2699464790) in [citadel-tech/coinswap](https://github.com/citadel-tech/coinswap)
+3. 🗣 Commented on [#382](https://github.com/citadel-tech/coinswap/issues/382#issuecomment-2699459078) in [citadel-tech/coinswap](https://github.com/citadel-tech/coinswap)
+4. 🗣 Commented on [#427](https://github.com/citadel-tech/coinswap/issues/427#issuecomment-2695351459) in [citadel-tech/coinswap](https://github.com/citadel-tech/coinswap)
+5. 🗣 Commented on [#427](https://github.com/citadel-tech/coinswap/issues/427#issuecomment-2692864609) in [citadel-tech/coinswap](https://github.com/citadel-tech/coinswap)
 <!--END_SECTION:activity-->
