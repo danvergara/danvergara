@@ -64,9 +64,9 @@ I'm backend developer :robot:. Organizer at [GophersMX](https://t.me/golangmx). 
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#692](https://github.com/bitcoin-dev-project/warnet/pull/692#issuecomment-2718231924) in [bitcoin-dev-project/warnet](https://github.com/bitcoin-dev-project/warnet)
-2. 🗣 Commented on [#432](https://github.com/citadel-tech/coinswap/pull/432#issuecomment-2714812509) in [citadel-tech/coinswap](https://github.com/citadel-tech/coinswap)
-3. 🗣 Commented on [#692](https://github.com/bitcoin-dev-project/warnet/pull/692#issuecomment-2714469533) in [bitcoin-dev-project/warnet](https://github.com/bitcoin-dev-project/warnet)
-4. 🗣 Commented on [#32](https://github.com/willcl-ark/warnet/pull/32#issuecomment-2712647154) in [willcl-ark/warnet](https://github.com/willcl-ark/warnet)
-5. ❌ Closed PR [#32](https://github.com/willcl-ark/warnet/pull/32) in [willcl-ark/warnet](https://github.com/willcl-ark/warnet)
+1. 🗣 Commented on [#692](https://github.com/bitcoin-dev-project/warnet/pull/692#issuecomment-2719340560) in [bitcoin-dev-project/warnet](https://github.com/bitcoin-dev-project/warnet)
+2. 🗣 Commented on [#692](https://github.com/bitcoin-dev-project/warnet/pull/692#issuecomment-2718231924) in [bitcoin-dev-project/warnet](https://github.com/bitcoin-dev-project/warnet)
+3. 🗣 Commented on [#432](https://github.com/citadel-tech/coinswap/pull/432#issuecomment-2714812509) in [citadel-tech/coinswap](https://github.com/citadel-tech/coinswap)
+4. 🗣 Commented on [#692](https://github.com/bitcoin-dev-project/warnet/pull/692#issuecomment-2714469533) in [bitcoin-dev-project/warnet](https://github.com/bitcoin-dev-project/warnet)
+5. 🗣 Commented on [#32](https://github.com/willcl-ark/warnet/pull/32#issuecomment-2712647154) in [willcl-ark/warnet](https://github.com/willcl-ark/warnet)
 <!--END_SECTION:activity-->
