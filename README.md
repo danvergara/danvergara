@@ -64,9 +64,9 @@ I'm backend developer :robot:. Organizer at [GophersMX](https://t.me/golangmx). 
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#345](https://github.com/CodyTseng/jumble/pull/345#issuecomment-2901455236) in [CodyTseng/jumble](https://github.com/CodyTseng/jumble)
-2. 💪 Opened PR [#345](https://github.com/CodyTseng/jumble/pull/345) in [CodyTseng/jumble](https://github.com/CodyTseng/jumble)
-3. 💪 Opened PR [#1](https://github.com/danvergara/avestruz/pull/1) in [danvergara/avestruz](https://github.com/danvergara/avestruz)
-4. 🗣 Commented on [#4335](https://github.com/ordinals/ord/issues/4335#issuecomment-2839342834) in [ordinals/ord](https://github.com/ordinals/ord)
-5. 🎉 Merged PR [#257](https://github.com/danvergara/dblab/pull/257) in [danvergara/dblab](https://github.com/danvergara/dblab)
+1. 🗣 Commented on [#345](https://github.com/CodyTseng/jumble/pull/345#issuecomment-2901544247) in [CodyTseng/jumble](https://github.com/CodyTseng/jumble)
+2. 🗣 Commented on [#345](https://github.com/CodyTseng/jumble/pull/345#issuecomment-2901455236) in [CodyTseng/jumble](https://github.com/CodyTseng/jumble)
+3. 💪 Opened PR [#345](https://github.com/CodyTseng/jumble/pull/345) in [CodyTseng/jumble](https://github.com/CodyTseng/jumble)
+4. 💪 Opened PR [#1](https://github.com/danvergara/avestruz/pull/1) in [danvergara/avestruz](https://github.com/danvergara/avestruz)
+5. 🗣 Commented on [#4335](https://github.com/ordinals/ord/issues/4335#issuecomment-2839342834) in [ordinals/ord](https://github.com/ordinals/ord)
 <!--END_SECTION:activity-->
