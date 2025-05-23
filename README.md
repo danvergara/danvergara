@@ -64,9 +64,9 @@ I'm backend developer :robot:. Organizer at [GophersMX](https://t.me/golangmx). 
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#349](https://github.com/CodyTseng/jumble/pull/349#issuecomment-2902262827) in [CodyTseng/jumble](https://github.com/CodyTseng/jumble)
-2. 🗣 Commented on [#349](https://github.com/CodyTseng/jumble/pull/349#issuecomment-2902163103) in [CodyTseng/jumble](https://github.com/CodyTseng/jumble)
-3. 💪 Opened PR [#349](https://github.com/CodyTseng/jumble/pull/349) in [CodyTseng/jumble](https://github.com/CodyTseng/jumble)
-4. ❌ Closed PR [#345](https://github.com/CodyTseng/jumble/pull/345) in [CodyTseng/jumble](https://github.com/CodyTseng/jumble)
-5. 🗣 Commented on [#345](https://github.com/CodyTseng/jumble/pull/345#issuecomment-2901591141) in [CodyTseng/jumble](https://github.com/CodyTseng/jumble)
+1. ❗ Opened issue [#350](https://github.com/CodyTseng/jumble/issues/350) in [CodyTseng/jumble](https://github.com/CodyTseng/jumble)
+2. 🗣 Commented on [#349](https://github.com/CodyTseng/jumble/pull/349#issuecomment-2902262827) in [CodyTseng/jumble](https://github.com/CodyTseng/jumble)
+3. 🗣 Commented on [#349](https://github.com/CodyTseng/jumble/pull/349#issuecomment-2902163103) in [CodyTseng/jumble](https://github.com/CodyTseng/jumble)
+4. 💪 Opened PR [#349](https://github.com/CodyTseng/jumble/pull/349) in [CodyTseng/jumble](https://github.com/CodyTseng/jumble)
+5. ❌ Closed PR [#345](https://github.com/CodyTseng/jumble/pull/345) in [CodyTseng/jumble](https://github.com/CodyTseng/jumble)
 <!--END_SECTION:activity-->
