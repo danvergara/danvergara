@@ -64,9 +64,9 @@ I'm backend developer :robot:. Organizer at [GophersMX](https://t.me/golangmx). 
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#261](https://github.com/danvergara/dblab/pull/261) in [danvergara/dblab](https://github.com/danvergara/dblab)
-2. 💪 Opened PR [#261](https://github.com/danvergara/dblab/pull/261) in [danvergara/dblab](https://github.com/danvergara/dblab)
-3. 🗣 Commented on [#349](https://github.com/CodyTseng/jumble/pull/349#issuecomment-2904510413) in [CodyTseng/jumble](https://github.com/CodyTseng/jumble)
-4. 🗣 Commented on [#350](https://github.com/CodyTseng/jumble/issues/350#issuecomment-2903303505) in [CodyTseng/jumble](https://github.com/CodyTseng/jumble)
-5. 🗣 Commented on [#349](https://github.com/CodyTseng/jumble/pull/349#issuecomment-2903292718) in [CodyTseng/jumble](https://github.com/CodyTseng/jumble)
+1. 🎉 Merged PR [#263](https://github.com/danvergara/dblab/pull/263) in [danvergara/dblab](https://github.com/danvergara/dblab)
+2. 💪 Opened PR [#263](https://github.com/danvergara/dblab/pull/263) in [danvergara/dblab](https://github.com/danvergara/dblab)
+3. 🎉 Merged PR [#262](https://github.com/danvergara/dblab/pull/262) in [danvergara/dblab](https://github.com/danvergara/dblab)
+4. 💪 Opened PR [#262](https://github.com/danvergara/dblab/pull/262) in [danvergara/dblab](https://github.com/danvergara/dblab)
+5. 🎉 Merged PR [#261](https://github.com/danvergara/dblab/pull/261) in [danvergara/dblab](https://github.com/danvergara/dblab)
 <!--END_SECTION:activity-->
