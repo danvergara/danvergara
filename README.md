@@ -64,9 +64,9 @@ I'm backend developer :robot:. Organizer at [GophersMX](https://t.me/golangmx). 
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/danvergara/jumble-proxy-server/pull/1) in [danvergara/jumble-proxy-server](https://github.com/danvergara/jumble-proxy-server)
-2. 💪 Opened PR [#1](https://github.com/danvergara/jumble-proxy-server/pull/1) in [danvergara/jumble-proxy-server](https://github.com/danvergara/jumble-proxy-server)
-3. 🗣 Commented on [#363](https://github.com/CodyTseng/jumble/issues/363#issuecomment-2926505906) in [CodyTseng/jumble](https://github.com/CodyTseng/jumble)
-4. 🗣 Commented on [#363](https://github.com/CodyTseng/jumble/issues/363#issuecomment-2919677429) in [CodyTseng/jumble](https://github.com/CodyTseng/jumble)
-5. 💪 Opened PR [#264](https://github.com/danvergara/dblab/pull/264) in [danvergara/dblab](https://github.com/danvergara/dblab)
+1. 🗣 Commented on [#363](https://github.com/CodyTseng/jumble/issues/363#issuecomment-2950621424) in [CodyTseng/jumble](https://github.com/CodyTseng/jumble)
+2. 🗣 Commented on [#363](https://github.com/CodyTseng/jumble/issues/363#issuecomment-2950593022) in [CodyTseng/jumble](https://github.com/CodyTseng/jumble)
+3. 🎉 Merged PR [#1](https://github.com/danvergara/jumble-proxy-server/pull/1) in [danvergara/jumble-proxy-server](https://github.com/danvergara/jumble-proxy-server)
+4. 💪 Opened PR [#1](https://github.com/danvergara/jumble-proxy-server/pull/1) in [danvergara/jumble-proxy-server](https://github.com/danvergara/jumble-proxy-server)
+5. 🗣 Commented on [#363](https://github.com/CodyTseng/jumble/issues/363#issuecomment-2926505906) in [CodyTseng/jumble](https://github.com/CodyTseng/jumble)
 <!--END_SECTION:activity-->
