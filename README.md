@@ -64,9 +64,9 @@ I'm backend developer :robot:. Organizer at [GophersMX](https://t.me/golangmx). 
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#363](https://github.com/CodyTseng/jumble/issues/363#issuecomment-2974126710) in [CodyTseng/jumble](https://github.com/CodyTseng/jumble)
-2. 🗣 Commented on [#363](https://github.com/CodyTseng/jumble/issues/363#issuecomment-2974110212) in [CodyTseng/jumble](https://github.com/CodyTseng/jumble)
-3. 🎉 Merged PR [#2](https://github.com/danvergara/jumble-proxy-server/pull/2) in [danvergara/jumble-proxy-server](https://github.com/danvergara/jumble-proxy-server)
-4. 💪 Opened PR [#2](https://github.com/danvergara/jumble-proxy-server/pull/2) in [danvergara/jumble-proxy-server](https://github.com/danvergara/jumble-proxy-server)
-5. 💪 Opened PR [#388](https://github.com/CodyTseng/jumble/pull/388) in [CodyTseng/jumble](https://github.com/CodyTseng/jumble)
+1. 🗣 Commented on [#363](https://github.com/CodyTseng/jumble/issues/363#issuecomment-2974893496) in [CodyTseng/jumble](https://github.com/CodyTseng/jumble)
+2. 🗣 Commented on [#363](https://github.com/CodyTseng/jumble/issues/363#issuecomment-2974892080) in [CodyTseng/jumble](https://github.com/CodyTseng/jumble)
+3. 🗣 Commented on [#363](https://github.com/CodyTseng/jumble/issues/363#issuecomment-2974126710) in [CodyTseng/jumble](https://github.com/CodyTseng/jumble)
+4. 🗣 Commented on [#363](https://github.com/CodyTseng/jumble/issues/363#issuecomment-2974110212) in [CodyTseng/jumble](https://github.com/CodyTseng/jumble)
+5. 🎉 Merged PR [#2](https://github.com/danvergara/jumble-proxy-server/pull/2) in [danvergara/jumble-proxy-server](https://github.com/danvergara/jumble-proxy-server)
 <!--END_SECTION:activity-->
