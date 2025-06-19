@@ -7,7 +7,7 @@ I'm backend developer :robot:. Organizer at [GophersMX](https://t.me/golangmx). 
 [![email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](daniel.omar.vergara@gmail.com)
 
 ### :fire: My Stats :
-[![GitHub Streak](https://streak-stats.demolab.com?user=danvergara&theme=dracula)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats-two-murex.vercel.app?user=danvergara&theme=dracula)](https://git.io/streak-stats)
 [![Dan's GitHub stats](https://github-readme-stats.vercel.app/api?username=danvergara&show_icons=true&theme=dracula&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danvergara&layout=compact&theme=dracula&hide=jupyter%20notebook)](https://github.com/anuraghazra/github-readme-stats)
 
