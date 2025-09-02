@@ -64,9 +64,9 @@ I'm backend developer :robot:. Organizer at [GophersMX](https://t.me/golangmx). 
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#7](https://github.com/danvergara/nostrich_watch_monitor/pull/7) in [danvergara/nostrich_watch_monitor](https://github.com/danvergara/nostrich_watch_monitor)
-2. 🎉 Merged PR [#8](https://github.com/danvergara/nostrich_watch_monitor/pull/8) in [danvergara/nostrich_watch_monitor](https://github.com/danvergara/nostrich_watch_monitor)
-3. 💪 Opened PR [#8](https://github.com/danvergara/nostrich_watch_monitor/pull/8) in [danvergara/nostrich_watch_monitor](https://github.com/danvergara/nostrich_watch_monitor)
-4. 💪 Opened PR [#7](https://github.com/danvergara/nostrich_watch_monitor/pull/7) in [danvergara/nostrich_watch_monitor](https://github.com/danvergara/nostrich_watch_monitor)
-5. 🎉 Merged PR [#11](https://github.com/danvergara/jumble-proxy-server/pull/11) in [danvergara/jumble-proxy-server](https://github.com/danvergara/jumble-proxy-server)
+1. 💪 Opened PR [#519](https://github.com/CodyTseng/jumble/pull/519) in [CodyTseng/jumble](https://github.com/CodyTseng/jumble)
+2. 🎉 Merged PR [#7](https://github.com/danvergara/nostrich_watch_monitor/pull/7) in [danvergara/nostrich_watch_monitor](https://github.com/danvergara/nostrich_watch_monitor)
+3. 🎉 Merged PR [#8](https://github.com/danvergara/nostrich_watch_monitor/pull/8) in [danvergara/nostrich_watch_monitor](https://github.com/danvergara/nostrich_watch_monitor)
+4. 💪 Opened PR [#8](https://github.com/danvergara/nostrich_watch_monitor/pull/8) in [danvergara/nostrich_watch_monitor](https://github.com/danvergara/nostrich_watch_monitor)
+5. 💪 Opened PR [#7](https://github.com/danvergara/nostrich_watch_monitor/pull/7) in [danvergara/nostrich_watch_monitor](https://github.com/danvergara/nostrich_watch_monitor)
 <!--END_SECTION:activity-->
