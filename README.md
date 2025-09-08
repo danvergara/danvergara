@@ -65,8 +65,8 @@ I'm backend developer :robot:. Organizer at [GophersMX](https://t.me/golangmx). 
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#545](https://github.com/CodyTseng/jumble/pull/545#issuecomment-3259882644) in [CodyTseng/jumble](https://github.com/CodyTseng/jumble)
-2. 💪 Opened PR [#545](undefined) in [CodyTseng/jumble](https://github.com/CodyTseng/jumble)
-3. 🗣 Commented on [#522](https://github.com/CodyTseng/jumble/pull/522#issuecomment-3243749523) in [CodyTseng/jumble](https://github.com/CodyTseng/jumble)
-4. 🗣 Commented on [#519](https://github.com/CodyTseng/jumble/pull/519#issuecomment-3243747953) in [CodyTseng/jumble](https://github.com/CodyTseng/jumble)
-5. 💪 Opened PR [#522](undefined) in [CodyTseng/jumble](https://github.com/CodyTseng/jumble)
+2. 💪 Opened PR [#545](https://github.com/CodyTseng/jumble/pull/545) in [CodyTseng/jumble](https://github.com/CodyTseng/jumble)
+3. 💪 Opened PR [#522](https://github.com/CodyTseng/jumble/pull/522) in [CodyTseng/jumble](https://github.com/CodyTseng/jumble)
+4. 💪 Opened PR [#519](https://github.com/CodyTseng/jumble/pull/519) in [CodyTseng/jumble](https://github.com/CodyTseng/jumble)
+5. 🎉 Merged PR [#7](https://github.com/danvergara/nostrich_watch_monitor/pull/7) in [danvergara/nostrich_watch_monitor](https://github.com/danvergara/nostrich_watch_monitor)
 <!--END_SECTION:activity-->
