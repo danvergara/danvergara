@@ -64,9 +64,9 @@ I'm backend developer :robot:. Organizer at [GophersMX](https://t.me/golangmx). 
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1](https://github.com/danvergara/auctions/pull/1) in [danvergara/auctions](https://github.com/danvergara/auctions)
-2. 🎉 Merged PR [#21](https://github.com/danvergara/nostrich_watch_monitor/pull/21) in [danvergara/nostrich_watch_monitor](https://github.com/danvergara/nostrich_watch_monitor)
-3. 💪 Opened PR [#21](https://github.com/danvergara/nostrich_watch_monitor/pull/21) in [danvergara/nostrich_watch_monitor](https://github.com/danvergara/nostrich_watch_monitor)
-4. 🎉 Merged PR [#20](https://github.com/danvergara/nostrich_watch_monitor/pull/20) in [danvergara/nostrich_watch_monitor](https://github.com/danvergara/nostrich_watch_monitor)
-5. 💪 Opened PR [#20](https://github.com/danvergara/nostrich_watch_monitor/pull/20) in [danvergara/nostrich_watch_monitor](https://github.com/danvergara/nostrich_watch_monitor)
+1. 🎉 Merged PR [#22](https://github.com/danvergara/nostrich_watch_monitor/pull/22) in [danvergara/nostrich_watch_monitor](https://github.com/danvergara/nostrich_watch_monitor)
+2. 💪 Opened PR [#22](https://github.com/danvergara/nostrich_watch_monitor/pull/22) in [danvergara/nostrich_watch_monitor](https://github.com/danvergara/nostrich_watch_monitor)
+3. 💪 Opened PR [#1](https://github.com/danvergara/auctions/pull/1) in [danvergara/auctions](https://github.com/danvergara/auctions)
+4. 🎉 Merged PR [#21](https://github.com/danvergara/nostrich_watch_monitor/pull/21) in [danvergara/nostrich_watch_monitor](https://github.com/danvergara/nostrich_watch_monitor)
+5. 💪 Opened PR [#21](https://github.com/danvergara/nostrich_watch_monitor/pull/21) in [danvergara/nostrich_watch_monitor](https://github.com/danvergara/nostrich_watch_monitor)
 <!--END_SECTION:activity-->
