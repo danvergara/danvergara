@@ -6,16 +6,14 @@ I'm backend developer :robot:. Organizer at [GophersMX](https://t.me/golangmx). 
 
 [![email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](daniel.omar.vergara@gmail.com)
 
-### :fire: My Stats :
-[![GitHub Streak](https://github-readme-streak-stats-two-murex.vercel.app?user=danvergara&theme=dracula)](https://git.io/streak-stats)
-[![Dan's GitHub stats](https://github-readme-stats.vercel.app/api?username=danvergara&show_icons=true&theme=dracula&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danvergara&layout=compact&theme=dracula&hide=jupyter%20notebook)](https://github.com/anuraghazra/github-readme-stats)
-
-
 # Experience:
 
-* **BACKEND DEVELOPER**
-    (Raincoat | OCT 2022 - )
+* **SR BACKEND DEVELOPER**
+    (Ardan Labs | NOV 2025 - )
+    * Currently working on Go microservices and data synchronization pipelines.
+
+* **PLATFORM ENGINEER**
+    (Raincoat | OCT 2022 - OCT 2025 )
     * Working on maintaining Go and Python microservices running on top of k8s clusters.--
     * Maintaining a couple ETLS to process client's data asynchronously.
     * Stack: Go, Python, Kubernetes, gRPC, Helm, PostgreSQL, Redis, MongoDB, Nats.
