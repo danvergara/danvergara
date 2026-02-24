@@ -62,9 +62,9 @@ I'm backend developer :robot:. Organizer at [GophersMX](https://t.me/golangmx). 
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#289](https://github.com/danvergara/dblab/issues/289#issuecomment-3893105085) in [danvergara/dblab](https://github.com/danvergara/dblab)
-2. 🚀 Published release [v0.34.3](https://github.com/danvergara/dblab/releases/tag/v0.34.3) in [danvergara/dblab](https://github.com/danvergara/dblab)
-3. 🗣 Commented on [#289](https://github.com/danvergara/dblab/issues/289#issuecomment-3892848845) in [danvergara/dblab](https://github.com/danvergara/dblab)
-4. ℹ️ Reopened PR [#291](https://github.com/danvergara/dblab/pull/291) in [danvergara/dblab](https://github.com/danvergara/dblab)
-5. 💪 Opened PR [#290](https://github.com/danvergara/dblab/pull/290) in [danvergara/dblab](https://github.com/danvergara/dblab)
+1. 🎉 Merged PR [#292](https://github.com/danvergara/dblab/pull/292) in [danvergara/dblab](https://github.com/danvergara/dblab)
+2. 💪 Opened PR [#292](https://github.com/danvergara/dblab/pull/292) in [danvergara/dblab](https://github.com/danvergara/dblab)
+3. 🗣 Commented on [#289](https://github.com/danvergara/dblab/issues/289#issuecomment-3893105085) in [danvergara/dblab](https://github.com/danvergara/dblab)
+4. 🚀 Published release [v0.34.3](https://github.com/danvergara/dblab/releases/tag/v0.34.3) in [danvergara/dblab](https://github.com/danvergara/dblab)
+5. 🗣 Commented on [#289](https://github.com/danvergara/dblab/issues/289#issuecomment-3892848845) in [danvergara/dblab](https://github.com/danvergara/dblab)
 <!--END_SECTION:activity-->
