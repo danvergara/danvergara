@@ -62,9 +62,9 @@ I'm backend developer :robot:. Organizer at [GophersMX](https://t.me/golangmx). 
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ℹ️ Labeled PR [#293](https://github.com/danvergara/dblab/pull/293) in [danvergara/dblab](https://github.com/danvergara/dblab)
-2. 🗣 Commented on [#639](https://github.com/charmbracelet/bubbles/pull/639#issuecomment-3956603019) in [charmbracelet/bubbles](https://github.com/charmbracelet/bubbles)
-3. 💪 Opened PR [#293](https://github.com/danvergara/dblab/pull/293) in [danvergara/dblab](https://github.com/danvergara/dblab)
-4. 🎉 Merged PR [#292](https://github.com/danvergara/dblab/pull/292) in [danvergara/dblab](https://github.com/danvergara/dblab)
-5. 💪 Opened PR [#292](https://github.com/danvergara/dblab/pull/292) in [danvergara/dblab](https://github.com/danvergara/dblab)
+1. 🎉 Merged PR [#293](https://github.com/danvergara/dblab/pull/293) in [danvergara/dblab](https://github.com/danvergara/dblab)
+2. ℹ️ Labeled PR [#293](https://github.com/danvergara/dblab/pull/293) in [danvergara/dblab](https://github.com/danvergara/dblab)
+3. 🗣 Commented on [#639](https://github.com/charmbracelet/bubbles/pull/639#issuecomment-3956603019) in [charmbracelet/bubbles](https://github.com/charmbracelet/bubbles)
+4. 💪 Opened PR [#293](https://github.com/danvergara/dblab/pull/293) in [danvergara/dblab](https://github.com/danvergara/dblab)
+5. 🎉 Merged PR [#292](https://github.com/danvergara/dblab/pull/292) in [danvergara/dblab](https://github.com/danvergara/dblab)
 <!--END_SECTION:activity-->
