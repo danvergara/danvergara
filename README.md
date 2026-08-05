@@ -62,8 +62,8 @@ I'm backend developer :robot:. Organizer at [GophersMX](https://t.me/golangmx). 
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#347](https://github.com/danvergara/dblab/pull/347) in [danvergara/dblab](https://github.com/danvergara/dblab)
-2. 🚀 Published release [v0.47.2](https://github.com/danvergara/dblab/releases/tag/v0.47.2) in [danvergara/dblab](https://github.com/danvergara/dblab)
+1. 🚀 Published release [v0.47.2](https://github.com/danvergara/dblab/releases/tag/v0.47.2) in [danvergara/dblab](https://github.com/danvergara/dblab)
+2. 💪 Opened PR [#347](https://github.com/danvergara/dblab/pull/347) in [danvergara/dblab](https://github.com/danvergara/dblab)
 3. ℹ️ Assigned issue [#346](https://github.com/danvergara/dblab/issues/346) in [danvergara/dblab](https://github.com/danvergara/dblab)
 4. ℹ️ Labeled issue [#346](https://github.com/danvergara/dblab/issues/346) in [danvergara/dblab](https://github.com/danvergara/dblab)
 5. ❗ Opened issue [#346](https://github.com/danvergara/dblab/issues/346) in [danvergara/dblab](https://github.com/danvergara/dblab)
