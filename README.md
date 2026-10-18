@@ -62,9 +62,9 @@ I'm backend developer :robot:. Organizer at [GophersMX](https://t.me/golangmx). 
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ℹ️ Labeled PR [#378](https://github.com/danvergara/dblab/pull/378) in [danvergara/dblab](https://github.com/danvergara/dblab)
-2. 🎉 Merged PR [#377](https://github.com/danvergara/dblab/pull/377) in [danvergara/dblab](https://github.com/danvergara/dblab)
-3. 🚀 Published release [v0.53.0](https://github.com/danvergara/dblab/releases/tag/v0.53.0) in [danvergara/dblab](https://github.com/danvergara/dblab)
-4. ℹ️ Labeled PR [#377](https://github.com/danvergara/dblab/pull/377) in [danvergara/dblab](https://github.com/danvergara/dblab)
-5. 💪 Opened PR [#377](https://github.com/danvergara/dblab/pull/377) in [danvergara/dblab](https://github.com/danvergara/dblab)
+1. 💪 Opened PR [#379](https://github.com/danvergara/dblab/pull/379) in [danvergara/dblab](https://github.com/danvergara/dblab)
+2. ℹ️ Labeled PR [#378](https://github.com/danvergara/dblab/pull/378) in [danvergara/dblab](https://github.com/danvergara/dblab)
+3. 🎉 Merged PR [#377](https://github.com/danvergara/dblab/pull/377) in [danvergara/dblab](https://github.com/danvergara/dblab)
+4. 🚀 Published release [v0.53.0](https://github.com/danvergara/dblab/releases/tag/v0.53.0) in [danvergara/dblab](https://github.com/danvergara/dblab)
+5. ℹ️ Labeled PR [#377](https://github.com/danvergara/dblab/pull/377) in [danvergara/dblab](https://github.com/danvergara/dblab)
 <!--END_SECTION:activity-->
